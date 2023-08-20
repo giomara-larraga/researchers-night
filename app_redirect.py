@@ -40,7 +40,7 @@ fitness_data = data[fitness_columns] * maxi[fitness_columns].values
 
 app = Dash(
     __name__,
-    #external_stylesheets=[dbc.themes.LITERA],
+    external_stylesheets=[dbc.themes.LITERA],
     eager_loading=True,
     suppress_callback_exceptions=True,
 )
@@ -54,7 +54,7 @@ app.layout = html.Div(
                 dbc.Col(
                     html.H1(
                         children="What is your optimal phone?",
-                        className="text-center mt-4",
+                        className="main-title text-center mt-4",
                     )
                 )
             ]

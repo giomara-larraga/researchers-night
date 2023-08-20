@@ -1,0 +1,4 @@
+brand,model,OS,internal_memory,RAM,rating,price
+Brand,Model,OS,Memory,RAM,Rating,Price (Euros)
+0,0,0,-1,-1,-1,1
+1,1,0,1,1,1,1

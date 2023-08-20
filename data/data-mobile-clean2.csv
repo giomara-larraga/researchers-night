@@ -1,0 +1,1263 @@
+﻿brand,model,OS,internal_memory,RAM,rating,price
+Apple,iPhone 11 ,iOS,64,4,4.6,648.7
+Apple,iPhone 11 ,iOS,128,4,4.6,713.7
+Apple,iPhone 11 ,iOS,256,4,4.6,843.7
+Apple,iPhone 11 Pro ,iOS,256,4,4.6,1039.987
+Apple,iPhone 11 Pro ,iOS,256,4,4.6,1298.7
+Apple,iPhone 11 Pro ,iOS,256,4,4.6,1576.9
+Apple,iPhone 11 Pro ,iOS,512,4,4.6,1823.9
+Apple,iPhone 11 Pro Max ,iOS,64,4,4.7,1522.3
+Apple,iPhone 11 Pro Max ,iOS,256,4,4.7,1714.7
+Apple,iPhone 11 Pro Max ,iOS,512,4,4.7,1960.4
+Apple,iPhone 12 ,iOS,256,4,4.6,1026.987
+Apple,iPhone 12 ,iOS,64,4,4.6,831.987
+Apple,iPhone 12 ,iOS,128,4,4.6,896.987
+Apple,iPhone 12 Mini ,iOS,64,4,4.5,740.987
+Apple,iPhone 12 Mini ,iOS,128,4,4.5,805.987
+Apple,iPhone 12 Mini ,iOS,256,4,4.5,935.987
+Apple,iPhone 12 Pro ,iOS,128,6,4.6,1428.7
+Apple,iPhone 12 Pro ,iOS,256,6,4.6,1558.7
+Apple,iPhone 12 Pro ,iOS,512,6,4.6,1818.7
+Apple,iPhone 13 ,iOS,512,4,4.7,1363.7
+Apple,iPhone 13 mini,iOS,512,4,4.6,1233.7
+Apple,iPhone 13 mini,iOS,128,4,4.6,843.7
+Apple,iPhone 13 Pro,iOS,512,4,4.7,1948.7
+Apple,iPhone 13 Pro Max,iOS,128,4,4.5,1558.7
+Apple,iPhone 13 Pro Max,iOS,128,4,4.7,1688.7
+Apple,iPhone 13 Pro Max,iOS,256,4,4.7,1818.7
+Apple,iPhone 13 Pro Max,iOS,512,4,4.7,2078.7
+Apple,iPhone 13 Pro Max,iOS,1 TB,4,4.7,2208.7
+Apple,iPhone 13 Pro Max,iOS,1 TB,4,4.7,2338.7
+Apple,iPhone 6 ,iOS,32,1,4.4,400.14
+Apple,iPhone 6 ,iOS,16,1,4.4,474.487
+Apple,iPhone 6 ,iOS,16,1,4.4,480.87
+Apple,iPhone 6 ,iOS,64,1,4.4,584.987
+Apple,iPhone 6 ,iOS,128,1,4.4,649.987
+Apple,iPhone 6 ,iOS,16,1,4.4,676
+Apple,iPhone 6 ,iOS,64,1,4.4,806
+Apple,iPhone 6 ,iOS,64,1,4.4,812.5
+Apple,iPhone 6 ,iOS,128,1,4.4,929.5
+Apple,iPhone 6 Plus ,iOS,128,1,4.5,1046.5
+Apple,iPhone 6 Plus ,iOS,16,1,4.5,519.987
+Apple,iPhone 6 Plus ,iOS,16,1,4.5,532.987
+Apple,iPhone 6 Plus ,iOS,128,1,4.5,636.987
+Apple,iPhone 6 Plus ,iOS,64,1,4.5,929.5
+Apple,iPhone 6s ,iOS,32,2,4.5,328.887
+Apple,iPhone 6s ,iOS,32,2,4.5,415.987
+Apple,iPhone 6s ,iOS,16,2,4.5,545.987
+Apple,iPhone 6s ,iOS,64,2,4.5,649.987
+Apple,iPhone 6s ,iOS,128,2,4.5,727.987
+Apple,iPhone 6s ,iOS,16,2,4.5,806
+Apple,iPhone 6s ,iOS,64,2,4.5,936
+Apple,iPhone 6s Plus ,iOS,32,2,4.4,453.7
+Apple,iPhone 6s Plus ,iOS,16,2,4.4,649.987
+Apple,iPhone 6s Plus ,iOS,64,2,4.4,779.987
+Apple,iPhone 6s Plus ,iOS,128,2,4.4,910
+Apple,iPhone 6s Plus ,iOS,16,2,4.4,936
+Apple,iPhone 7 ,iOS,32,2,4.5,324.987
+Apple,iPhone 7 ,iOS,128,2,4.5,453.7
+Apple,iPhone 7 ,iOS,256,2,4.7,967.2
+Apple,iPhone 7 Plus ,iOS,256,3,5,1110.2
+Apple,iPhone 7 Plus ,iOS,32,3,4.5,480.987
+Apple,iPhone 7 Plus ,iOS,128,3,4.5,557.7
+Apple,iPhone 8 ,iOS,256,2,4.5,1001
+Apple,iPhone 8 ,iOS,256,2,4.7,1059.5
+Apple,iPhone 8 ,iOS,64,2,4.5,506.987
+Apple,iPhone 8 Plus ,iOS,256,3,4.6,1103.7
+Apple,iPhone 8 Plus ,iOS,64,3,4.6,648.7
+Apple,iPhone 8 Plus ,iOS,256,3,4.6,778.7
+Apple,iPhone SE ,iOS,64,2,4.5,428.987
+Apple,iPhone SE ,iOS,128,2,4.5,583.7
+Apple,iPhone SE ,iOS,256,2,4.5,713.7
+Apple,iPhone X ,iOS,64,3,4.6,1194.7
+Apple,iPhone X ,iOS,256,3,4.6,1389.7
+Apple,iPhone XR ,iOS,256,3,4.6,1194.7
+Apple,iPhone XR ,iOS,64,3,4.6,558.987
+Apple,iPhone XR ,iOS,128,3,4.6,623.987
+Apple,iPhone XS ,iOS,256,4,4.7,1000.987
+Apple,iPhone XS ,iOS,512,4,4.7,1753.7
+Apple,iPhone XS ,iOS,64,4,4.7,818.987
+Apple,iPhone XS Max ,iOS,256,4,4.6,1026.987
+Apple,iPhone XS Max ,iOS,512,4,4.6,1883.7
+Apple,iPhone XS Max ,iOS,64,4,4.6,961.987
+ASUS,6Z ,Android,64,6,4.3,467.987
+ASUS,6Z ,Android,128,6,4.3,506.987
+ASUS,6Z ,Android,256,8,4.3,571.987
+ASUS,ROG ,Android,128,8,4.3,344.487
+ASUS,ROG Phone 3 ,Android,128,8,4.4,610.987
+ASUS,ROG Phone 3 ,Android,128,12,4.4,649.987
+ASUS,ROG Phone 3 ,Android,256,12,4.4,753.987
+ASUS,ROG Phone 5 ,Android,128,8,4.3,649.987
+ASUS,ROG Phone 5 ,Android,256,12,4.5,753.987
+ASUS,ROG Phone II ,Android,128,8,4.6,532.987
+ASUS,ROG Phone II ,Android,512,12,4.6,818.987
+ASUS,Zenfone 2 Laser ZE500KL ,Android,16,2,4.1,103.987
+ASUS,Zenfone 4 Selfie ,Android,32,3,4.1,142.987
+ASUS,ZenFone 5Z ,Android,64,6,4.5,428.987
+ASUS,ZenFone 5Z ,Android,128,6,4.5,471.887
+ASUS,ZenFone 5Z ,Android,256,8,4.5,571.987
+ASUS,Zenfone C ,Android,8,1,3.8,81.887
+ASUS,Zenfone GO ,Android,16,2,3.8,110.487
+ASUS,Zenfone Go 2nd Gen,Android,8,1,3.7,68.887
+ASUS,Zenfone Go 3rd Gen,Android,16,2,3.8,116.987
+ASUS,Zenfone Go 4.5 ,Android,8,1,3.9,68.887
+ASUS,Zenfone Go 4.5 LTE ,Android,8,1,3.6,63.44
+ASUS,Zenfone Go 4.5 LTE ,Android,8,1,3.6,63.57
+ASUS,Zenfone Go 5.0 ,Android,16,2,4,58.487
+ASUS,Zenfone Go 5.0 ,Android,8,2,4,64.87
+ASUS,Zenfone Go 5.0 ,Android,16,2,4,90.987
+ASUS,Zenfone Go 5.0 LTE 2nd Gen ,Android,16,2,3.6,64.987
+ASUS,Zenfone Go 5.0 LTE 2nd Gen ,Android,16,2,3.6,75.92
+ASUS,Zenfone Go 5.0 LTE 2nd Gen ,Android,16,2,3.6,77.87
+ASUS,Zenfone Go 5.0 LTE ,Android,16,2,3.7,64.87
+ASUS,Zenfone Go 5.5 ,Android,32,2,3.7,90.987
+ASUS,Zenfone Go ,Android,8,1,3.8,60.437
+ASUS,Zenfone Go ,Android,8,1,3.8,68.887
+ASUS,Zenfone Go ,Android,8,1,3.8,74.087
+ASUS,Zenfone Go ,Android,32,2,3.8,90.987
+ASUS,Zenfone Go ,Android,32,2,3.8,94.9
+ASUS,Zenfone Go ,Android,32,2,3.8,97.487
+ASUS,ZenFone Lite L1 ,Android,16,2,4.2,93.587
+ASUS,Zenfone Live ,Android,16,2,4,103.987
+ASUS,Zenfone Live ,Android,16,2,4,99.684
+ASUS,Zenfone Max ,Android,32,2,4.1,100.087
+ASUS,Zenfone Max ,Android,32,2,4.1,110.487
+ASUS,Zenfone Max ,Android,16,2,4.1,90.87
+ASUS,Zenfone Max ,Android,32,2,4.1,90.987
+ASUS,Zenfone Max ,Android,16,2,4.1,97.487
+ASUS,ZenFone Max M1 ,Android,64,4,4,124.787
+ASUS,ZenFone Max M2 ,Android,32,3,4.3,168.987
+ASUS,ZenFone Max M2 ,Android,64,4,4.3,194.987
+ASUS,Zenfone Max Pro M1 ,Android,32,3,4.3,171.587
+ASUS,Zenfone Max Pro M1 ,Android,64,4,4.3,202.787
+ASUS,Zenfone Max Pro M1 ,Android,64,6,4.3,233.987
+ASUS,ZenFone Max Pro M2 ,Android,32,3,4.3,207.987
+ASUS,ZenFone Max Pro M2 ,Android,64,4,4.3,233.987
+ASUS,ZenFone Max Pro M2 ,Android,64,6,4.3,259.987
+ASUS,Zenfone Max ZC550KL ,Android,32,3,4.1,103.87
+ASUS,Zenfone Max ZC550KL ,Android,32,3,4.1,112.97
+ASUS,Zenfone Max ZC550KL ,Android,32,3,4.1,188.487
+ASUS,Zenfone Selfie ,Android,32,3,4,103.87
+ASUS,Zenfone Selfie ,Android,16,2,3.9,110.487
+ASUS,Zenfone Selfie ,Android,16,3,4,129.987
+ASUS,Zenfone Selfie ,Android,32,3,4,155.987
+ASUS,Zenfone Selfie ,Android,16,3,4,162.37
+ASUS,Zenfone Selfie ,Android,16,3,4,181.987
+ASUS,Zenfone Selfie ,Android,32,3,4,188.5
+ASUS,Zenfone Selfie ,Android,16,2,3.9,207.987
+ASUS,Zenfone Selfie ,Android,32,3,4,233.987
+ASUS,Zenfone Selfie ,Android,16,3,4,87.737
+ASUS,Zenfone Zoom ,Android,64,4,3.6,493.987
+Google Pixel,2,Android,64,4,4.6,793
+Google Pixel,2,Android,128,4,4.6,910
+Google Pixel,2 XL ,Android,128,4,4.6,1066
+Google Pixel,3,Android,128,4,4.5,1040
+Google Pixel,3,Android,64,4,4.5,909.987
+Google Pixel,3,Android,64,4,4.5,923
+Google Pixel,3a ,Android,64,4,4.5,519.987
+Google Pixel,3a XL ,Android,64,4,4.5,584.987
+Google Pixel,3 XL ,Android,64,4,4.6,1079
+Google Pixel,3 XL ,Android,128,4,4.6,1196
+Google Pixel,4a ,Android,128,6,4.5,415.987
+Google Pixel,Nexus 5X ,Android,16,2,4.5,156
+Google Pixel,Nexus 5X ,Android,16,2,4.5,330.2
+Google Pixel,Nexus 5X ,Android,16,2,4.3,337.87
+Google Pixel,Nexus 5X ,Android,32,2,4.3,389.87
+Google Pixel,Quite Black,Android,128,4,4.4,858
+Google Pixel,Very Silver,Android,32,4,4.4,741
+Google Pixel,XL ,Android,128,4,4.5,988
+HTC,10,Android,32,4,4.2,623.87
+HTC,10,Android,32,4,4.2,736.97
+HTC,526G Plus,Android,16,1,4,161.2
+HTC,620G,Android,8,1,3.9,103.987
+HTC,620G,Android,16,1,4.1,311.987
+HTC,626G Plus,Android,8,1,3.9,116.987
+HTC,628,Android,32,3,3.7,200.2
+HTC,816G,Android,16,1,3.9,285.87
+HTC,820 G+,Android,16,1,3.9,256.035
+HTC,820S,Android,16,2,3.9,331.5
+HTC,826,Android,16,2,3.7,363.87
+HTC,Desire 326G DS,Android,8,1,3.7,124.67
+HTC,Desire 516,Android,4,1,3.5,197.6
+HTC,Desire 526G Plus,Android,16,1,4,128.7
+HTC,Desire 526G Plus,Android,16,1,4,90.987
+HTC,Desire 616,Android,4,1,3.8,223.6
+HTC,Desire 626,Android,16,2,3.7,153.53
+HTC,Desire 626,Android,16,2,3.7,171.6
+HTC,Desire 626,Android,16,2,3.7,201.37
+HTC,Desire 630,Android,16,2,3.8,163.41
+HTC,Desire 700,Android,8,1,3.8,461.37
+HTC,Desire 816  ,Android,8,1.5,4.1,356.07
+HTC,Desire 816G,Android,16,1,4,285.987
+HTC,Desire 820,Android,16,2,4.1,337.987
+HTC,Desire 826 DS,Android,16,2,3.7,237.237
+HTC,Desire 826 DS,Android,16,2,3.7,350.987
+HTC,Desire 828,Android,16,2,3.7,220.87
+HTC,One 802D,Android,32,2,4.1,774.67
+HTC,One E9+,Android,32,3,3.9,504.4
+HTC,One E9+,Android,32,3,4.1,700.7
+HTC,One M8 ,Android,16,2,4.4,778.7
+HTC,U11+ ,Android,128,6,4.7,740.87
+HTC,U11,Android,128,6,4.6,701.87
+HTC,U Ultra,Android,64,4,4,818.87
+HTC,Wildfire X ,Android,32,3,3.9,168.987
+HTC,Wildfire X ,Android,32,3,3.9,181.987
+HTC,Wildfire X ,Android,128,4,3.9,220.987
+HTC,Wildfire X ,Android,128,4,3.9,233.987
+Lenovo,A1000 ,Android,8,1,3.8,46.137
+Lenovo,A2010 ,Android,8,1,3.9,59.787
+Lenovo,A2010 ,Android,8,1,3.9,64.87
+Lenovo,A2010 ,Android,8,1,3.9,71.37
+Lenovo,A2010 ,Android,8,1,3.9,71.487
+Lenovo,A328 ,Android,4,1,3.8,97.487
+Lenovo,A5000 ,Android,8,1,4,129.987
+Lenovo,A5000 ,Android,8,1,4,84.487
+Lenovo,A5 ,Android,32,3,4.1,103.987
+Lenovo,A536 ,Android,8,1,3.8,100.1
+Lenovo,A536 ,Android,8,1,3.8,129.987
+Lenovo,A5 ,Android,16,2,4.1,90.987
+Lenovo,A6000 Plus ,Android,16,2,4.1,97.487
+Lenovo,A6000 Shot ,Android,16,2,3.7,103.87
+Lenovo,A6000 Shot ,Android,16,2,3.7,80.6
+Lenovo,A6600 ,Android,16,1,3.8,58.487
+Lenovo,A6600 ,Android,16,1,3.8,71.487
+Lenovo,A6600d40 ,Android,16,2,4,103.987
+Lenovo,A6600 Plus ,Android,16,2,3.9,81.458
+Lenovo,A6 Note ,Android,32,3,4.2,129.987
+Lenovo,A7000 ,Android,8,2,4,116.987
+Lenovo,A7000 ,Android,8,2,4,71.487
+Lenovo,A7000 Turbo ,Android,16,2,3.8,116.987
+Lenovo,A7000 Turbo ,Android,16,2,3.8,77.987
+Lenovo,A7 ,Android,64,4,3.9,103.87
+Lenovo,A7 ,Android,64,4,3.9,110.37
+Lenovo,A7700 ,Android,16,2,3.9,84.487
+Lenovo,A7700 ,Android,16,2,3.9,87.75
+Lenovo,A7 ,Android,32,2,4,90.35
+Lenovo,A7 ,Android,32,2,4,97.37
+Lenovo,A850 ,Android,4,1,4.1,207.987
+Lenovo,B ,Android,8,1,3.8,63.57
+Lenovo,B ,Android,8,1,3.8,88.387
+Lenovo,K10 Note ,Android,64,4,4.1,220.987
+Lenovo,K10 Note ,Android,128,6,4.1,246.987
+Lenovo,K10 Plus ,Android,64,4,4.1,181.987
+Lenovo,K3 Note ,Android,16,2,4,103.987
+Lenovo,K3 Note ,Android,16,2,4,128.7
+Lenovo,K3 Note ,Android,16,2,4,91
+Lenovo,K3 Note Music ,Android,16,2,3.7,127.335
+Lenovo,K4 Note ,Android,16,3,3.9,103.987
+Lenovo,K6 Note ,Android,32,4,4,118.95
+Lenovo,K6 Note ,Android,32,3,4.1,81.25
+Lenovo,K6 Note ,Android,32,3,4.1,90.987
+Lenovo,K6 Note ,Android,32,4,4,97.37
+Lenovo,K6 Note ,Android,32,4,4,98.787
+Lenovo,K6 POWER ,Android,32,4,4,103.987
+Lenovo,K6 Power ,Android,32,4,4,116.987
+Lenovo,K6 Power ,Android,32,3,4.1,97.487
+Lenovo,K8 ,Android,32,3,4.1,90.87
+Lenovo,K8 ,Android,32,3,4.1,97.37
+Lenovo,K8 Note ,Android,32,3,4.1,101.647
+Lenovo,K8 Note ,Android,64,4,4.1,110.487
+Lenovo,K8 Note ,Android,64,4,4.1,168.987
+Lenovo,K8 Note ,Android,32,3,4.1,97.37
+Lenovo,K8 Plus ,Android,32,3,4.2,142.987
+Lenovo,K8 Plus ,Android,32,4,4.1,155.987
+Lenovo,K9 ,Android,32,3,4.2,129.987
+Lenovo,K9 Note ,Android,64,4,4.1,155.987
+Lenovo,P2 ,Android,32,3,4.3,220.987
+Lenovo,P2 ,Android,32,4,4.3,233.987
+Lenovo,P70 ,Android,16,2,3.5,90.857
+Lenovo,P770 ,Android,4,1,4.3,167.687
+Lenovo,P780 ,Android,4,1,4.1,200.33
+Lenovo,S560 ,Android,8,1,4.1,259.987
+Lenovo,S660 ,Android,8,1,4,194.987
+Lenovo,S850 ,Android,16,1,4,207.987
+Lenovo,S850 ,Android,16,1,4,240.487
+Lenovo,S90 Or Sisley S90 ,Android,32,2,3.6,168.987
+Lenovo,S930 ,Android,8,1,4.3,176.852
+Lenovo,Sisley S60 ,Android,8,2,3.5,181.987
+Lenovo,Sisley S60 ,Android,8,2,3.5,90.74
+Lenovo,Vibe K5 Note ,Android,32,3,4.1,142.987
+Lenovo,Vibe K5 Note ,Android,32,4,4.1,162.487
+Lenovo,Vibe K5 Note ,Android,64,4,4.1,175.487
+Lenovo,Vibe K5 Plus ,Android,16,3,4,103.987
+Lenovo,Vibe K5 Plus ,Android,16,2,4,110.487
+Lenovo,VIBE P1 ,Android,32,2,4.1,207.987
+Lenovo,VIBE P1m ,Android,16,2,4.1,90.987
+Lenovo,Vibe P1 Turbo ,Android,32,3,3.7,119.977
+Lenovo,Vibe P1 Turbo ,Android,32,3,3.7,99.45
+Lenovo,Vibe Shot ,Android,32,3,3.7,127.387
+Lenovo,Vibe Shot ,Android,32,3,3.7,246.987
+Lenovo,Vibe Z2 Pro ,Android,32,3,4,389.987
+Lenovo,X2-AP ,Android,32,2,3.7,129.987
+Lenovo,X2-AP ,Android,32,2,3.7,227.487
+Lenovo,Z2 Plus ,Android,32,3,3.9,107.25
+Lenovo,Z2 Plus ,Android,32,3,3.9,233.987
+Lenovo,Z2 Plus ,Android,64,4,3.8,259.987
+Lenovo,ZUK Z1 ,Android,64,3,3.4,97.487
+LG,Candy K9 ,Android,16,2,4.1,76.687
+LG,G2 D802 ,Android,16,2,4.5,415.623
+LG,G3 Beat ,Android,8,1,3.8,207.987
+LG,G3 Stylus ,Android,8,1,4.1,181.87
+LG,G4 ,Android,32,3,4,337.987
+LG,G4 ,Android,32,3,4,397.8
+LG,G4 ,Android,32,3,4,467.87
+LG,G4 Stylus 4G LTE ,Android,16,1,3.6,91
+LG,G5 ,Android,32,4,4,298.987
+LG,G5 ,Android,32,4,4,337.987
+LG,G5 ,Android,32,4,4,688.87
+LG,G6 ,Android,64,4,4.2,298.87
+LG,G6 ,Android,64,4,4.2,324.974
+LG,G6 ,Android,64,4,4.2,387.27
+LG,G7+ ThinQ ,Android,128,6,4.4,715
+LG,G7 ThinQ ,Android,64,4,4.4,650
+LG,G8X ,Android,128,6,4.4,363.87
+LG,G Pro 2 ,Android,16,3,4.5,546.273
+LG,K-10 ,Android,16,2,4,101.387
+LG,K10 2017 ,Android,16,2,4.1,117
+LG,K10 2017 ,Android,16,2,4.1,129.87
+LG,K10 2017 ,Android,16,2,4.1,97.487
+LG,K10 K420DS ,Android,16,2,4,90.74
+LG,K42 ,Android,64,3,3.9,142.87
+LG,K-7 ,Android,8,1.5,4.1,85.67
+LG,K7i ,Android,16,2,4,129.87
+LG,K8 ,Android,16,2,3.8,74.087
+LG,K9 4G LTE ,Android,16,2,4,103.987
+LG,L 80 Dual ,Android,4,1,3.7,184.106
+LG,L90 Dual ,Android,8,1,4.2,201.916
+LG,L Bello ,Android,8,1,3.9,91
+LG,Max X160 ,Android,8,1,3.4,65
+LG,Nexus4 E960,Android,16,2,4.5,341.887
+LG,Optimus L70 ,Android,4,1,4,166.283
+LG,Q6+ ,Android,64,4,3.9,259.87
+LG,Q60 ,Android,64,3,4,129.87
+LG,Q6 ,Android,32,3,4,220.87
+LG,Q7+ ,Android,64,4,3.2,154.037
+LG,Q7+ ,Android,64,4,3.2,272.974
+LG,Q7+ ,Android,64,4,3.2,273.013
+LG,Q7 ,Android,32,3,3.3,129.87
+LG,Q7 ,Android,32,3,3.3,218.27
+LG,Q7 ,Android,32,3,3.3,220.948
+LG,Q Stylus+ ,Android,64,4,4,312
+LG,Q Stylus ,Android,32,3,3.8,260
+LG,Spirit ,Android,8,1,3.8,104
+LG,Spirit 4G LTE ,Android,8,1,3.7,162.5
+LG,Stylus 2 ,Android,16,2,4.1,108.55
+LG,Stylus 2 ,Android,16,2,4.1,129.987
+LG,Stylus 2 ,Android,16,2,4.1,168.987
+LG,Stylus 2 Plus ,Android,16,3,4.1,185.25
+LG,Stylus 3 ,Android,16,3,3.8,129.87
+LG,V20 ,Android,64,4,4.2,379.587
+LG,V20 ,Android,64,4,4.2,409.37
+LG,V20a ,Android,64,4,4.1,402.87
+LG,V30+ ,Android,128,4,4.3,389.987
+LG,V40 ThinQ ,Android,128,6,4.4,780
+LG,Velvet ,Android,128,6,4.2,389.987
+LG,Velvet Dual Screen ,Android,128,6,4.4,584.87
+LG,W10 ,Android,32,3,3.9,90.987
+LG,W10 Alpha ,Android,32,3,3.7,94.887
+LG,W11 ,Android,32,3,4,99.97
+LG,W30 ,Android,32,3,3.9,106.587
+LG,W30 ,Android,32,3,3.9,109.187
+LG,W30 ,Android,32,3,3.9,129.987
+LG,W30 Plus ,Android,64,4,3.8,166.27
+LG,W30 Plus ,Android,64,4,3.8,168.35
+LG,W30 Pro ,Android,64,4,3.8,179.075
+LG,W30 Pro ,Android,64,4,3.8,181.974
+LG,W30 Pro ,Android,64,4,3.8,194.987
+LG,W31 ,Android,64,4,4,129.987
+LG,W31 Plus ,Android,128,4,4.1,142.987
+LG,W41 ,Android,64,4,4,110.487
+LG,W41 ,Android,64,4,4,136.487
+LG,W41 Plus ,Android,128,4,3.8,123.487
+LG,W41 Pro ,Android,128,6,3.7,136.487
+LG,Wing ,Android,128,8,4.2,389.987
+LG,X Cam ,Android,16,2,3.5,129.987
+LG,X Power ,Android,16,2,4,110.487
+LG,X Screen K500I ,Android,16,2,4,103.87
+Motorola,2nd Generation ,Android,16,1,4.2,116.987
+Motorola,C,Android,16,1,3.9,71.487
+Motorola,C Plus,Android,16,2,4.2,89.7
+Motorola,C Plus,Android,16,2,4.2,90.987
+Motorola,E 2nd Gen 3G ,Android,8,1,4.1,77.987
+Motorola,E5,Android,16,2,4.3,142.987
+Motorola,E5,Android,16,2,4.3,156
+Motorola,E5 Plus,Android,32,3,4.2,155.987
+Motorola,E6s,Android,64,4,4.1,103.987
+Motorola,E7 Plus ,Android,64,4,4.2,116.987
+Motorola,E7 Power ,Android,64,4,4.1,114.387
+Motorola,E7 Power ,Android,32,2,4.1,90.987
+Motorola,Edge+ ,Android,256,12,4.1,844.987
+Motorola,Edge 20 ,Android,128,8,4.4,389.987
+Motorola,Edge 20 Fusion ,Android,128,6,3.9,279.487
+Motorola,G10 Power ,Android,64,4,4.1,136.487
+Motorola,G,Android,16,1,4.4,129.987
+Motorola,G 2nd Generation ,Android,16,1,4.2,116.987
+Motorola,G30 ,Android,64,4,4.1,142.987
+Motorola,G 3rd Generation ,Android,8,1,4.2,129.987
+Motorola,G 3rd Generation ,Android,8,1,4.2,155.987
+Motorola,G40 Fusion ,Android,64,4,4.3,188.487
+Motorola,G40 Fusion ,Android,128,6,4.3,214.487
+Motorola,G4,Android,16,2,3.9,83.187
+Motorola,G4,Android,16,2,3.9,90.987
+Motorola,G4 Plus,Android,16,2,4,77.987
+Motorola,G4 Plus,Android,32,3,4,90.987
+Motorola,G5,Android,128,6,4.2,272.987
+Motorola,G5,Android,16,3,4.2,70.85
+Motorola,G5 Plus,Android,32,3,3.7,142.987
+Motorola,G5s,Android,32,4,4.1,109.07
+Motorola,G5s,Android,32,4,4.1,128.297
+Motorola,G5s,Android,32,4,4.1,95.55
+Motorola,G60 ,Android,128,6,4.2,233.987
+Motorola,G6,Android,32,3,4.2,181.987
+Motorola,G6,Android,64,4,4.2,260
+Motorola,G6 Play,Android,32,3,4.1,168.987
+Motorola,G6 Plus ,Android,64,6,4.3,153.777
+Motorola,G7,Android,64,4,4.3,129.987
+Motorola,G7 Power,Android,64,4,4.3,207.987
+Motorola,G8 Plus,Android,64,4,4.3,168.987
+Motorola,G8 Power Lite ,Android,64,4,4.3,129.987
+Motorola,G9 ,Android,64,4,4.2,142.987
+Motorola,G9 Power ,Android,64,4,4.1,155.987
+Motorola,M,Android,64,4,3.9,129.987
+Motorola,M,Android,64,4,3.9,141.83
+Motorola,M,Android,64,4,3.9,168.987
+Motorola,M,Android,32,3,3.9,194.987
+Motorola,One,Android,64,4,4.1,194.987
+Motorola,One Action ,Android,128,4,4.2,142.987
+Motorola,One Fusion+ ,Android,128,6,4.4,227.487
+Motorola,One Macro ,Android,64,4,4.3,123.487
+Motorola,One Macro ,Android,64,4,4.3,129.987
+Motorola,One Power ,Android,64,4,4.3,246.987
+Motorola,One Vision ,Android,128,4,4.2,194.987
+Motorola,Razr 5G ,Android,256,8,4,1169.987
+Motorola,Razr ,Android,128,6,3.8,974.987
+Motorola,X 2nd Generation ,Android,16,2,4.2,188.5
+Motorola,X 2nd Generation ,Android,16,2,4.2,311.987
+Motorola,X 2nd Generation ,Android,32,2,4.2,324.987
+Motorola,X4,Android,32,3,4.3,285.987
+Motorola,X4,Android,64,4,4.3,311.987
+Motorola,X4,Android,64,6,4.3,324.987
+Motorola,X Play,Android,16,2,4.2,227.487
+Motorola,Z2 Force,Android,64,6,4.1,194.987
+Motorola,Z2 Play,Android,64,4,4.4,363.987
+Motorola,Z Play,Android,32,3,4.4,324.987
+Nokia,1,Android,8,1,3.9,60.736
+Nokia,1,Android,8,1,3.9,62.4
+Nokia,2.1,Android,8,1,4,100.256
+Nokia,2.1,Android,8,1,4,100.607
+Nokia,2.1,Android,8,1,4,84.5
+Nokia,2.2,Android,16,2,4,111.787
+Nokia,2.2,Android,32,3,4,124.787
+Nokia,2.3,Android,32,2,4,109.837
+Nokia,2.3,Android,32,2,4,129.987
+Nokia,2.4,Android,64,3,4,135.187
+Nokia,2,Android,8,1,3.8,81.835
+Nokia,2,Android,8,1,3.8,91.091
+Nokia,3.1,Android,16,2,3.9,129.987
+Nokia,3.1,Android,16,2,3.9,130
+Nokia,3.1,Android,32,3,4,90.87
+Nokia,3.1,Android,32,3,4,97.37
+Nokia,3.1 Plus ,Android,32,3,4.2,107.887
+Nokia,3.1 Plus ,Android,32,3,4.2,135.72
+Nokia,3.1 Plus ,Android,32,3,4.2,92.144
+Nokia,3.1 Plus ,Android,32,3,4.2,96.187
+Nokia,3.2,Android,16,2,3.8,129.987
+Nokia,3.2,Android,16,2,3.8,132.587
+Nokia,3.2,Android,32,3,4.1,136.487
+Nokia,3.2,Android,32,3,4.1,155.987
+Nokia,3.2,Android,32,3,4.1,161.187
+Nokia,3.4,Android,64,4,3.9,155.987
+Nokia,3,Android,16,2,3.9,111.644
+Nokia,3,Android,16,2,3.9,141.687
+Nokia,3,Android,16,2,3.9,68.77
+Nokia,3,Android,16,2,3.9,71.487
+Nokia,4.2,Android,32,3,4,178.087
+Nokia,5.1,Android,32,3,4,102.57
+Nokia,5.1,Android,32,3,4,102.687
+Nokia,5.1,Android,32,3,4,211.9
+Nokia,5.1 Plus ,Android,64,6,3.7,128.7
+Nokia,5.1 Plus ,Android,64,4,4.1,129.675
+Nokia,5.1 Plus ,Android,64,4,4.1,129.87
+Nokia,5.1 Plus ,Android,32,3,4.3,171.587
+Nokia,5.1 Plus ,Android,64,6,3.7,194.987
+Nokia,5.3,Android,64,4,3.5,142.987
+Nokia,5.3,Android,64,4,3.5,155.857
+Nokia,5.3,Android,64,6,3.7,168.987
+Nokia,5.4,Android,64,4,3.9,168.987
+Nokia,5.4,Android,64,6,3.9,188.487
+Nokia,5,Android,16,3,4.1,162.487
+Nokia,5,Android,16,3,4.1,198.887
+Nokia,5,Android,16,3,4.1,210.587
+Nokia,5,Android,16,2,4,83.2
+Nokia,5,Android,16,2,4,87.633
+Nokia,5,Android,16,2,4,90.987
+Nokia,5,Android,16,3,4.1,92.807
+Nokia,6.1,Android,32,4,4,123.5
+Nokia,6.1,Android,64,4,4,162.487
+Nokia,6.1,Android,32,4,4,168.987
+Nokia,6.1,Android,32,3,4.2,194.051
+Nokia,6.1,Android,32,4,4,221
+Nokia,6.1,Android,32,3,4.2,233.727
+Nokia,6.1,Android,64,4,4,237.9
+Nokia,6.1 Plus ,Android,64,6,4.1,149.37
+Nokia,6.1 Plus ,Android,64,6,4.1,155.87
+Nokia,6.1 Plus ,Android,64,4,4.3,241.787
+Nokia,6.2,Android,64,4,4.2,167.037
+Nokia,6.2,Android,64,4,4.2,179.27
+Nokia,6,Android,32,3,3.9,103.987
+Nokia,6,Android,32,3,3.9,181.87
+Nokia,6,Android,32,3,3.9,181.987
+Nokia,6,Android,64,4,3.9,253.487
+Nokia,7.1,Android,64,4,4.1,145.587
+Nokia,7.1,Android,64,4,4.1,168.974
+Nokia,7.2,Android,64,4,4.1,259.987
+Nokia,7.2,Android,64,6,4.1,272.987
+Nokia,7 Plus ,Android,64,4,4.3,156
+Nokia,7 Plus ,Android,64,4,4.3,207.987
+Nokia,8.1,Android,128,6,4.3,285.987
+Nokia,8.1,Android,128,6,4.3,298.987
+Nokia,8.1,Android,64,4,4.3,374.803
+Nokia,8,Android,64,4,4,383.37
+Nokia,8,Android,64,4,4,480.987
+Nokia,8,Android,64,4,4,507
+Nokia,8 Sirocco ,Android,128,6,4.3,389.87
+Nokia,9,Android,128,6,3.8,731.887
+Nokia,C20 Plus ,Android,32,2,4.4,116.987
+Nokia,C20 Plus ,Android,32,3,3.8,129.987
+Nokia,C3 ,Android,32,3,3.8,129.987
+Nokia,C3 ,Android,16,2,3.7,94.77
+Nokia,C3 ,Android,16,2,3.7,94.887
+Nokia,C3 ,Android,32,3,3.8,97.487
+Nokia,Lumia 920 ,Android,32,1,4.3,529.087
+Nokia,X2 Dual SIM ,Android,4,1,4.2,129.987
+Nokia,XR 20,Android,128,6,4.3,610.844
+POCO,C3 ,Android,32,3,4.3,103.987
+POCO,C31,Android,32,3,4.4,103.987
+POCO,C31,Android,64,4,4.4,116.987
+POCO,C3 ,Android,64,4,4.3,116.987
+POCO,F1,Android,64,6,4.5,285.987
+POCO,F1,Android,128,6,4.5,324.987
+POCO,F1,Android,256,6,4.5,376.987
+POCO,F1,Android,256,8,4.5,402.987
+POCO,F3 GT,Android,128,8,4.3,376.987
+POCO,F3 GT,Android,256,8,4.3,402.987
+POCO,M2  ,Android,64,6,4.4,136.487
+POCO,M2  ,Android,128,6,4.4,149.487
+POCO,M2 Pro,Android,64,4,4.3,181.987
+POCO,M2 Pro,Android,64,6,4.4,194.987
+POCO,M2 Pro,Android,128,6,4.4,207.987
+POCO,M2 Reloaded ,Android,64,4,4.3,129.987
+POCO,M3 ,Android,64,4,4.3,142.987
+POCO,M3 ,Android,64,6,4.3,155.987
+POCO,M3 Pro 5G ,Android,128,6,4.2,214.487
+POCO,M4 Pro,Android,64,6,4.4,194.987
+POCO,M4 Pro,Android,128,6,4.4,214.487
+POCO,M4 Pro,Android,128,8,4.4,233.987
+POCO,M4 Pro 5G,Android,64,4,4.5,194.987
+POCO,M4 Pro 5G,Android,128,6,4.4,220.987
+POCO,M4 Pro 5G,Android,128,8,4.4,246.987
+POCO,X2,Android,64,6,4.5,194.987
+POCO,X2,Android,128,6,4.5,207.987
+POCO,X2,Android,256,8,4.5,279.487
+POCO,X2 Special Edition,Android,128,6,4.5,207.987
+POCO,X2 Special Edition,Android,128,6,4.5,259.987
+POCO,X3 Pro ,Android,128,6,4.4,246.987
+POCO,X3 Pro ,Android,128,8,4.4,272.987
+realme,1,Android,64,4,4.4,123.37
+realme,1,Android,64,4,4.4,142.87
+realme,1,Android,128,6,4.3,142.987
+realme,1,Android,64,4,4.4,149.37
+realme,1,Android,128,6,4.3,166.387
+realme,2,Android,32,3,4.5,129.87
+realme,2,Android,64,4,4.4,155.87
+realme,3,Android,32,3,4.5,110.487
+realme,3,Android,64,3,4.5,123.487
+realme,3,Android,64,4,4.4,136.487
+realme,3i ,Android,32,3,4.4,110.487
+realme,3i ,Android,64,4,4.4,136.487
+realme,5i ,Android,64,4,4.5,142.987
+realme,5i ,Android,128,4,4.5,155.987
+realme,5 Pro ,Android,64,4,4.5,181.987
+realme,5 Pro ,Android,64,6,4.5,194.987
+realme,5 Pro ,Android,128,8,4.5,220.987
+realme,5s ,Android,128,4,4.5,155.987
+realme,6,Android,64,4,4.4,181.987
+realme,6,Android,64,6,4.4,194.987
+realme,6,Android,128,6,4.4,207.987
+realme,6,Android,128,8,4.4,220.987
+realme,6i ,Android,64,4,4.4,168.987
+realme,6i ,Android,64,6,4.4,181.987
+realme,6 Pro ,Android,64,6,4.4,233.987
+realme,6 Pro ,Android,128,6,4.4,246.987
+realme,6 Pro ,Android,128,8,4.4,253.487
+realme,6 Pro ,Android,128,8,4.4,259.987
+realme,7,Android,64,6,4.3,194.987
+realme,7,Android,128,8,4.3,233.987
+realme,7i ,Android,64,4,4.3,181.987
+realme,7i ,Android,128,4,4.3,194.987
+realme,7 Pro ,Android,128,6,4.4,259.987
+realme,8,Android,128,4,4.3,207.987
+realme,8,Android,128,6,4.3,220.987
+realme,8,Android,128,8,4.3,233.987
+realme,8 5G ,Android,64,4,4.3,201.487
+realme,8 5G ,Android,128,4,4.3,214.487
+realme,8 5G ,Android,128,8,4.3,240.487
+realme,8 Pro ,Android,128,6,4.3,233.987
+realme,8 Pro ,Android,128,8,4.4,259.987
+realme,8s 5G ,Android,128,6,4.5,233.987
+realme,9 5G,Android,64,4,4.5,194.987
+realme,9 5G,Android,128,6,4.8,227.487
+realme,9 5G SE,Android,128,6,4.5,259.987
+realme,9 5G SE,Android,128,8,4.5,298.987
+realme,9i,Android,64,4,4.5,181.987
+realme,9i,Android,128,6,4.4,207.987
+realme,9 Pro+ 5G,Android,128,6,4.4,324.987
+realme,9 Pro+ 5G,Android,128,8,4.4,350.987
+realme,9 Pro+ 5G,Android,256,8,4.4,376.987
+realme,9 Pro 5G,Android,128,6,4.4,233.987
+realme,9 Pro 5G,Android,128,8,4.4,272.987
+realme,C11 2021 ,Android,64,4,4.2,114.387
+realme,C11 2021 ,Android,32,2,4.3,94.887
+realme,C11 ,Android,32,2,4.4,97.487
+realme,C12 ,Android,32,3,4.4,116.987
+realme,C12 ,Android,64,4,4.4,142.987
+realme,C15 ,Android,32,3,4.3,129.987
+realme,C15 ,Android,64,4,4.4,142.987
+realme,C15 Qualcomm Edition ,Android,32,3,4.3,155.987
+realme,C15 Qualcomm Edition ,Android,64,4,4.4,168.987
+realme,C20 ,Android,32,2,4.4,97.487
+realme,C21 ,Android,32,3,4.4,116.987
+realme,C21 ,Android,64,4,4.4,129.987
+realme,C21Y ,Android,64,4,4.4,129.987
+realme,C25 ,Android,64,4,4.4,129.987
+realme,C25 ,Android,128,4,4.4,142.987
+realme,C25s ,Android,64,4,4.4,142.987
+realme,C25s ,Android,128,4,4.4,155.987
+realme,C25Y ,Android,64,4,4.5,142.987
+realme,C25Y ,Android,128,4,4.5,156.637
+realme,C2 ,Android,16,2,4.4,84.487
+realme,C2 ,Android,32,2,4.4,90.987
+realme,C2 ,Android,32,3,4.4,97.487
+realme,C3 ,Android,32,3,4.4,116.987
+realme,C3 ,Android,32,3,4.4,129.987
+realme,C3 ,Android,64,4,4.4,142.987
+realme,C35,Android,64,4,4.5,155.987
+realme,C35,Android,128,4,4.5,168.987
+realme,GT 5G ,Android,128,8,4.3,493.987
+realme,GT 5G ,Android,256,12,4.3,545.987
+realme,GT Master Edition ,Android,128,6,4.1,337.987
+realme,GT Master Edition ,Android,128,8,4.4,363.987
+realme,GT Master Edition ,Android,256,8,4.3,389.987
+realme,GT Neo 2,Android,128,8,4.4,415.987
+realme,GT Neo 2,Android,256,12,4.4,467.987
+realme,Narzo 10 ,Android,128,4,4.5,155.987
+realme,Narzo 10A ,Android,32,3,4.5,116.987
+realme,Narzo 10A ,Android,64,4,4.5,129.987
+realme,Narzo 20 ,Android,64,4,4.3,136.487
+realme,Narzo 20 ,Android,128,4,4.3,149.487
+realme,Narzo 20A ,Android,32,3,4.3,110.487
+realme,Narzo 20A ,Android,64,4,4.4,123.487
+realme,Narzo 20 Pro ,Android,64,6,4.3,194.987
+realme,Narzo 20 Pro ,Android,128,8,4.3,220.987
+realme,Narzo 30 ,Android,64,4,4.3,175.487
+realme,Narzo 30 ,Android,64,6,4.3,188.487
+realme,Narzo 30 ,Android,128,6,4.3,201.487
+realme,Narzo 30 5G ,Android,64,4,4.4,194.987
+realme,Narzo 30 5G ,Android,128,6,4.3,220.987
+realme,Narzo 30A ,Android,32,3,4.3,116.987
+realme,Narzo 30A ,Android,64,4,4.3,136.487
+realme,Narzo 30 Pro 5G ,Android,64,6,4.3,220.987
+realme,Narzo 30 Pro 5G ,Android,128,8,4.3,259.987
+realme,Narzo 50A ,Android,64,4,4.4,149.487
+realme,Narzo 50A ,Android,32,4,4.4,162.487
+realme,Narzo 50i ,Android,64,4,4.3,116.987
+realme,Narzo 50i ,Android,32,2,4.4,97.487
+realme,U1 ,Android,32,3,4.4,107.705
+realme,U1 ,Android,32,3,4.4,110.37
+realme,U1 ,Android,64,4,4.4,129.987
+realme,U1 ,Android,64,4,4.4,155.87
+realme,U1 ,Android,64,3,4.4,155.987
+realme,X2 ,Android,64,4,4.5,233.987
+realme,X2 ,Android,128,6,4.5,259.987
+realme,X2 ,Android,128,8,4.5,272.987
+realme,X2 ,Android,256,8,4.5,324.987
+realme,X ,Android,128,4,4.5,233.987
+realme,X ,Android,128,8,4.5,272.987
+realme,X ,Android,128,8,4.5,285.987
+realme,X2 Pro ,Android,128,8,4.5,415.987
+realme,X2 Pro ,Android,256,12,4.6,467.987
+realme,X2 Pro ,Android,256,12,4.6,480.987
+realme,X3 ,Android,128,6,4.4,324.987
+realme,X3 ,Android,128,8,4.4,337.987
+realme,X3 SuperZoom ,Android,128,8,4.3,363.987
+realme,X3 SuperZoom ,Android,256,8,4.3,389.987
+realme,X3 SuperZoom ,Android,256,12,4.2,428.987
+realme,X50 Pro ,Android,128,8,4.3,545.987
+realme,X50 Pro 5G ,Android,256,12,4.3,623.987
+realme,X50 Pro ,Android,256,12,4.3,623.987
+realme,X7 5G ,Android,128,6,4.3,259.987
+realme,X7 5G ,Android,128,8,4.3,285.987
+realme,X7 Max,Android,128,8,4.4,350.987
+realme,X7 Max,Android,256,12,4.3,389.987
+realme,X7 Pro 5G ,Android,128,8,4.3,389.987
+SAMSUNG,Galaxy A03 Core,Android,32,2,4,103.987
+SAMSUNG,Galaxy A03s ,Android,32,3,4,149.487
+SAMSUNG,Galaxy A03s ,Android,64,4,4.2,162.487
+SAMSUNG,Galaxy A10 ,Android,32,2,4.3,103.87
+SAMSUNG,Galaxy A10 ,Android,32,2,4.3,113.1
+SAMSUNG,Galaxy A10s ,Android,32,2,4.4,127.92
+SAMSUNG,Galaxy A10s ,Android,32,2,4.4,130
+SAMSUNG,Galaxy A10s ,Android,32,3,4.3,143
+SAMSUNG,Galaxy A12 ,Android,64,4,4.2,155.857
+SAMSUNG,Galaxy A12 ,Android,64,4,4.2,157.872
+SAMSUNG,Galaxy A12 ,Android,64,4,4.2,181.987
+SAMSUNG,Galaxy A12 ,Android,128,6,3.9,194.987
+SAMSUNG,Galaxy A12 ,Android,128,6,3.9,198.523
+SAMSUNG,Galaxy A12 ,Android,128,6,3.9,205.959
+SAMSUNG,Galaxy A12 ,Android,128,6,3.9,207.857
+SAMSUNG,Galaxy A12 ,Android,64,4,4.2,207.987
+SAMSUNG,Galaxy A12 ,Android,128,6,3.9,214.487
+SAMSUNG,Galaxy A20 ,Android,32,3,4.3,149.37
+SAMSUNG,Galaxy A20 ,Android,32,3,4.3,167.7
+SAMSUNG,Galaxy A20s ,Android,32,3,4.3,150.787
+SAMSUNG,Galaxy A20s ,Android,64,4,4.3,178.035
+SAMSUNG,Galaxy A20s ,Android,64,4,4.3,193.7
+SAMSUNG,Galaxy A21s ,Android,64,6,4.2,192.907
+SAMSUNG,Galaxy A21s ,Android,64,4,4.2,194.987
+SAMSUNG,Galaxy A21s ,Android,64,6,4.2,197.587
+SAMSUNG,Galaxy A21s ,Android,128,6,4.2,227.487
+SAMSUNG,Galaxy A21s ,Android,64,4,4.2,233.987
+SAMSUNG,Galaxy A21s ,Android,64,6,4.2,259.987
+SAMSUNG,Galaxy A22 ,Android,128,6,4.3,220.987
+SAMSUNG,Galaxy A22 ,Android,128,6,4.3,228.475
+SAMSUNG,Galaxy A22 ,Android,128,6,4.3,228.514
+SAMSUNG,Galaxy A22 ,Android,128,6,4.3,240.487
+SAMSUNG,Galaxy A22 5G ,Android,128,6,4.3,257.634
+SAMSUNG,Galaxy A22 5G ,Android,128,6,4.3,259.727
+SAMSUNG,Galaxy A22 5G ,Android,128,6,4.3,259.987
+SAMSUNG,Galaxy A22 5G ,Android,128,6,4.3,269.048
+SAMSUNG,Galaxy A22 5G ,Android,128,8,4.2,285.987
+SAMSUNG,Galaxy A22 5G ,Android,128,8,4.2,291.85
+SAMSUNG,Galaxy A22 5G ,Android,128,8,4.2,306.748
+SAMSUNG,Galaxy A2 Core ,Android,16,1,4.2,76.7
+SAMSUNG,Galaxy A30 ,Android,64,4,4.4,227.5
+SAMSUNG,Galaxy A30 ,Android,64,4,4.4,234
+SAMSUNG,Galaxy A30s ,Android,64,4,4.3,206.687
+SAMSUNG,Galaxy A30s ,Android,128,4,4.3,236.587
+SAMSUNG,Galaxy A30s ,Android,64,4,4.3,245.7
+SAMSUNG,Galaxy A30s ,Android,128,4,4.3,258.7
+SAMSUNG,Galaxy A3 ,Android,16,1,4,106.47
+SAMSUNG,Galaxy A31 ,Android,128,6,4.3,220.987
+SAMSUNG,Galaxy A31 ,Android,128,6,4.3,246.987
+SAMSUNG,Galaxy A3 ,Android,16,1,4,129.987
+SAMSUNG,Galaxy A3 ,Android,16,1,4,140.4
+SAMSUNG,Galaxy A32 ,Android,128,6,4.1,282.1
+SAMSUNG,Galaxy A32 ,Android,128,6,4.1,285.987
+SAMSUNG,Galaxy A32 ,Android,128,8,4.4,297.83
+SAMSUNG,Galaxy A32 ,Android,128,8,4.4,298.09
+SAMSUNG,Galaxy A50 ,Android,64,4,4.3,273
+SAMSUNG,Galaxy A50 ,Android,64,6,4.4,285.87
+SAMSUNG,Galaxy A50 ,Android,64,6,4.4,312
+SAMSUNG,Galaxy A50s ,Android,128,4,4.3,194.987
+SAMSUNG,Galaxy A50s ,Android,128,6,4.3,274.287
+SAMSUNG,Galaxy A51 ,Android,128,6,4.3,272.987
+SAMSUNG,Galaxy A51 ,Android,128,8,4.3,292.487
+SAMSUNG,Galaxy A5 ,Android,16,2,4.1,188.37
+SAMSUNG,Galaxy A5 2016 Edition ,Android,16,2,4.1,188.37
+SAMSUNG,Galaxy A5-2017 ,Android,32,3,4.1,297.7
+SAMSUNG,Galaxy A5 ,Android,16,2,4.1,233.87
+SAMSUNG,Galaxy A52 ,Android,128,6,4.3,357.487
+SAMSUNG,Galaxy A52 ,Android,128,6,4.3,361.53
+SAMSUNG,Galaxy A52 ,Android,128,8,4.4,376.987
+SAMSUNG,Galaxy A52s 5G ,Android,128,6,4.3,467.987
+SAMSUNG,Galaxy A52s 5G ,Android,128,8,4.5,487.487
+SAMSUNG,Galaxy A6+ ,Android,64,4,4.4,285.87
+SAMSUNG,Galaxy A6+ ,Android,64,4,4.4,332.8
+SAMSUNG,Galaxy A6+ ,Android,64,4,4.4,337.987
+SAMSUNG,Galaxy A6 ,Android,32,4,4.3,162.487
+SAMSUNG,Galaxy A6 ,Android,64,4,4.3,181.987
+SAMSUNG,Galaxy A6 ,Android,64,4,4.3,220.87
+SAMSUNG,Galaxy A6 ,Android,64,4,4.3,308.724
+SAMSUNG,Galaxy A70 ,Android,128,6,4.3,401.7
+SAMSUNG,Galaxy A70s ,Android,128,6,4.3,233.987
+SAMSUNG,Galaxy A70s ,Android,128,8,4.3,396.5
+SAMSUNG,Galaxy A71 ,Android,128,8,4.4,357.487
+SAMSUNG,Galaxy A7 2016 Edition ,Android,16,3,4.1,227.37
+SAMSUNG,Galaxy A7 2016 Edition ,Android,16,3,4.1,269.1
+SAMSUNG,Galaxy A7-2017 ,Android,32,3,3.8,336.7
+SAMSUNG,Galaxy A7 ,Android,64,4,4.4,233.87
+SAMSUNG,Galaxy A72 ,Android,128,8,4.3,454.987
+SAMSUNG,Galaxy A72 ,Android,256,8,4.3,493.987
+SAMSUNG,Galaxy A7 ,Android,16,2,4.1,259.87
+SAMSUNG,Galaxy A7 ,Android,64,4,4.4,289.9
+SAMSUNG,Galaxy A7 ,Android,128,6,4.4,319.8
+SAMSUNG,Galaxy A80 ,Android,128,8,4.4,370.37
+SAMSUNG,Galaxy A80 ,Android,128,8,4.4,388.687
+SAMSUNG,Galaxy A8 ,Android,32,2,4.2,337.87
+SAMSUNG,Galaxy A8 ,Android,32,2,4.2,435.5
+SAMSUNG,Galaxy A8 Plus ,Android,64,6,4.2,219.18
+SAMSUNG,Galaxy A8 Plus ,Android,64,6,4.2,389.87
+SAMSUNG,Galaxy A8 Star ,Android,64,6,4.3,220.857
+SAMSUNG,Galaxy A8 Star ,Android,64,6,4.3,246.87
+SAMSUNG,Galaxy A9 ,Android,128,6,4.4,259.87
+SAMSUNG,Galaxy A9 ,Android,128,8,4.3,402.87
+SAMSUNG,Galaxy A9 ,Android,128,6,4.4,468
+SAMSUNG,Galaxy A9 ,Android,128,8,4.3,507
+SAMSUNG,Galaxy A9 Pro ,Android,32,4,4.3,259.74
+SAMSUNG,Galaxy A9 Pro ,Android,32,4,4.3,297.7
+SAMSUNG,Galaxy A9 Pro ,Android,32,4,4.3,349.7
+SAMSUNG,Galaxy Alpha ,Android,32,2,3.6,259.987
+SAMSUNG,Galaxy Alpha ,Android,32,2,3.6,291.057
+SAMSUNG,Galaxy Alpha ,Android,32,2,3.6,546
+SAMSUNG,Galaxy C7 Pro ,Android,64,4,4.4,345.8
+SAMSUNG,Galaxy Core ,Android,8,1,4,103.987
+SAMSUNG,Galaxy Core ,Android,8,1,4,191.1
+SAMSUNG,Galaxy Core Prime ,Android,8,1,4.1,71.37
+SAMSUNG,Galaxy Core Prime ,Android,8,1,4.1,90.935
+SAMSUNG,Galaxy Core Prime G361 Dual Sim - White ,Android,8,1,3.7,103.987
+SAMSUNG,Galaxy E5 ,Android,16,1.5,4.2,110.37
+SAMSUNG,Galaxy E5 ,Android,16,1.5,4.2,128.57
+SAMSUNG,Galaxy E5 ,Android,16,1.5,4.2,265.2
+SAMSUNG,Galaxy E7 ,Android,16,2,4.3,168.987
+SAMSUNG,Galaxy E7 ,Android,16,2,4.3,210.6
+SAMSUNG,Galaxy E7 ,Android,16,2,4.3,238.42
+SAMSUNG,Galaxy F02s ,Android,32,3,4.2,123.487
+SAMSUNG,Galaxy F02s ,Android,64,4,4.2,136.487
+SAMSUNG,Galaxy F12 ,Android,64,4,4.2,149.487
+SAMSUNG,Galaxy F12 ,Android,128,4,4.2,162.487
+SAMSUNG,Galaxy F22 ,Android,64,4,4.3,168.987
+SAMSUNG,Galaxy F22 ,Android,128,6,4.3,194.987
+SAMSUNG,Galaxy F23 5G,Android,128,4,4,207.987
+SAMSUNG,Galaxy F23 5G,Android,128,6,4,220.987
+SAMSUNG,Galaxy F41 ,Android,128,6,4.3,188.487
+SAMSUNG,Galaxy F41 ,Android,64,6,4.3,207.987
+SAMSUNG,Galaxy F42 5G ,Android,128,6,4.1,272.987
+SAMSUNG,Galaxy F42 5G ,Android,128,8,4.1,298.987
+SAMSUNG,Galaxy F62 ,Android,128,6,4.2,311.987
+SAMSUNG,Galaxy F62 ,Android,128,8,4.3,337.987
+SAMSUNG,Galaxy Fold 2 ,Android,256,12,3,1949.987
+SAMSUNG,Galaxy Folder 2 ,Android,16,2,3.7,355.29
+SAMSUNG,Galaxy Grand 2 ,Android,8,1.5,4.1,129.987
+SAMSUNG,Galaxy Grand 2 ,Android,8,1.5,4.1,142.87
+SAMSUNG,Galaxy Grand 2 ,Android,8,1.5,4.1,207.987
+SAMSUNG,Galaxy Grand I9082 ,Android,8,1,4,116.987
+SAMSUNG,Galaxy Grand Neo ,Android,8,1,3.8,175.5
+SAMSUNG,Galaxy Grand Neo Plus ,Android,8,1,4,77.987
+SAMSUNG,Galaxy Grand Neo Plus ,Android,8,1,4,90.987
+SAMSUNG,Galaxy Grand Prime 4g ,Android,8,1,3.9,107.25
+SAMSUNG,Galaxy Grand Quattro ,Android,8,1,4,77.987
+SAMSUNG,Galaxy Grand Quattro ,Android,8,1,4,90.987
+SAMSUNG,Galaxy J1 ,Android,8,1,4,98.15
+SAMSUNG,Galaxy J2 - 2016 ,Android,8,1.5,4,90.87
+SAMSUNG,Galaxy J2 - 2016 ,Android,8,1.5,4,93.6
+SAMSUNG,Galaxy J2-2017 ,Android,8,1,4.2,78
+SAMSUNG,Galaxy J2 2018 ,Android,16,2,4.3,103.987
+SAMSUNG,Galaxy J2 2018 ,Android,16,2,4.3,88.387
+SAMSUNG,Galaxy J2 2018 ,Android,16,2,4.3,97.5
+SAMSUNG,Galaxy J2 ,Android,8,1,4.1,88.387
+SAMSUNG,Galaxy J2 ,Android,8,1,4.1,96.2
+SAMSUNG,Galaxy J2 Ace ,Android,8,1.5,4.1,105.17
+SAMSUNG,Galaxy J2 Core ,Android,8,1,4.2,80.6
+SAMSUNG,Galaxy J2 Core ,Android,8,1,4.2,84.5
+SAMSUNG,Galaxy J2 Core ,Android,16,1,4.2,90.987
+SAMSUNG,Galaxy J2 Pro ,Android,16,2,4.2,106.6
+SAMSUNG,Galaxy J4 ,Android,16,2,4.3,116.87
+SAMSUNG,Galaxy J4 ,Android,16,2,4.3,123.5
+SAMSUNG,Galaxy J4 ,Android,32,3,4.2,142.87
+SAMSUNG,Galaxy J4 ,Android,32,3,4.2,169.299
+SAMSUNG,Galaxy J4 Plus ,Android,32,2,4.3,117
+SAMSUNG,Galaxy J4 Plus ,Android,32,2,4.3,123.487
+SAMSUNG,Galaxy J5 ,Android,8,1.5,4.3,103.87
+SAMSUNG,Galaxy J5 ,Android,8,1.5,4.3,136.37
+SAMSUNG,Galaxy J5 ,Android,8,1.5,4.3,148.07
+SAMSUNG,Galaxy J5 - 6 New 2016 Edition) ,Android,16,2,4.2,142.87
+SAMSUNG,Galaxy J5 Prime ,Android,32,3,4.3,175.5
+SAMSUNG,Galaxy J5 Prime ,Android,32,3,4.3,180.7
+SAMSUNG,Galaxy J5 Prime ,Android,16,2,4,188.5
+SAMSUNG,Galaxy J6 ,Android,64,4,4.5,123.37
+SAMSUNG,Galaxy J6 ,Android,32,3,4.4,168.87
+SAMSUNG,Galaxy J6 ,Android,32,3,4.4,175.5
+SAMSUNG,Galaxy J6 ,Android,64,4,4.5,194.87
+SAMSUNG,Galaxy J6 Plus ,Android,64,4,4.3,176.8
+SAMSUNG,Galaxy J6 Plus ,Android,64,4,4.3,182
+SAMSUNG,Galaxy J7 ,Android,16,1.5,4.3,152.1
+SAMSUNG,Galaxy J7 - 6 New 2016 Edition) ,Android,16,2,4.3,179.4
+SAMSUNG,Galaxy J7 - 6 New 2016 Edition) ,Android,16,2,4.3,198.887
+SAMSUNG,Galaxy J7 Duo ,Android,32,4,4.3,232.557
+SAMSUNG,Galaxy J7 Duo ,Android,32,4,4.3,233.506
+SAMSUNG,Galaxy J7 Duo ,Android,32,4,4.3,233.87
+SAMSUNG,Galaxy J7 Nxt ,Android,16,2,4.4,142.935
+SAMSUNG,Galaxy J7 Nxt ,Android,16,2,4.4,155.935
+SAMSUNG,Galaxy J7 Nxt ,Android,32,3,4.3,156
+SAMSUNG,Galaxy J7 Nxt ,Android,32,3,4.3,194.935
+SAMSUNG,Galaxy J7 Prime ,Android,16,3,4.2,142.87
+SAMSUNG,Galaxy J7 Prime ,Android,32,3,4.2,198.9
+SAMSUNG,Galaxy J7 Prime ,Android,32,3,4.2,219.427
+SAMSUNG,Galaxy J7 Prime 2 ,Android,32,3,4.3,194.87
+SAMSUNG,Galaxy J8 ,Android,64,4,4.4,246.87
+SAMSUNG,Galaxy J8 ,Android,64,4,4.4,253.5
+SAMSUNG,Galaxy M01 ,Android,32,3,4.2,114.14
+SAMSUNG,Galaxy M01 ,Android,32,3,4.2,129.87
+SAMSUNG,Galaxy M01s ,Android,32,3,4.2,142.987
+SAMSUNG,Galaxy M02 ,Android,32,2,4,102.7
+SAMSUNG,Galaxy M02 ,Android,32,3,4,105.079
+SAMSUNG,Galaxy M02 ,Android,32,2,4,106.977
+SAMSUNG,Galaxy M02 ,Android,32,2,4,107.757
+SAMSUNG,Galaxy M02 ,Android,32,2,4,107.887
+SAMSUNG,Galaxy M02 ,Android,32,3,4,115.05
+SAMSUNG,Galaxy M02 ,Android,32,3,4,115.596
+SAMSUNG,Galaxy M02 ,Android,32,3,4,115.661
+SAMSUNG,Galaxy M10 ,Android,16,2,4.3,106.21
+SAMSUNG,Galaxy M10 ,Android,16,2,4.3,106.47
+SAMSUNG,Galaxy M10 ,Android,32,3,4.3,112.45
+SAMSUNG,Galaxy M10 ,Android,32,3,4.3,112.97
+SAMSUNG,Galaxy M10S ,Android,32,3,4.4,116.87
+SAMSUNG,Galaxy M10S ,Android,32,3,4.4,118.3
+SAMSUNG,Galaxy M11 ,Android,64,4,4.3,146.887
+SAMSUNG,Galaxy M11 ,Android,64,4,4.3,152.087
+SAMSUNG,Galaxy M11 ,Android,32,3,4.2,152.672
+SAMSUNG,Galaxy M11 ,Android,32,3,4.2,152.685
+SAMSUNG,Galaxy M11 ,Android,64,4,4.3,162.487
+SAMSUNG,Galaxy M12 ,Android,64,4,4.2,146.77
+SAMSUNG,Galaxy M12 ,Android,64,4,4.2,149.63
+SAMSUNG,Galaxy M12 ,Android,64,4,4.2,152.49
+SAMSUNG,Galaxy M12 ,Android,128,6,4.2,181.792
+SAMSUNG,Galaxy M12 ,Android,128,6,4.2,188.37
+SAMSUNG,Galaxy M20 ,Android,32,3,4.3,141.024
+SAMSUNG,Galaxy M20 ,Android,32,3,4.3,142.87
+SAMSUNG,Galaxy M20 ,Android,64,4,4.3,155.87
+SAMSUNG,Galaxy M20 ,Android,64,4,4.3,155.987
+SAMSUNG,Galaxy M21 ,Android,64,4,4.3,178.88
+SAMSUNG,Galaxy M21 ,Android,128,6,4.2,201.487
+SAMSUNG,Galaxy M21 ,Android,64,4,4.3,207.87
+SAMSUNG,Galaxy M30 ,Android,32,3,4.3,135.187
+SAMSUNG,Galaxy M30 ,Android,64,4,4.4,176.657
+SAMSUNG,Galaxy M30 ,Android,64,4,4.4,181.935
+SAMSUNG,Galaxy M30 ,Android,128,6,4.3,206.57
+SAMSUNG,Galaxy M30 ,Android,128,6,4.3,206.7
+SAMSUNG,Galaxy M30S ,Android,128,4,4.3,181.87
+SAMSUNG,Galaxy M30s ,Android,64,4,4.3,182.897
+SAMSUNG,Galaxy M30s ,Android,64,4,4.3,183.17
+SAMSUNG,Galaxy M30s ,Android,64,4,4.3,194.87
+SAMSUNG,Galaxy M30S ,Android,128,4,4.3,201.487
+SAMSUNG,Galaxy M30s ,Android,128,6,4.1,207.87
+SAMSUNG,Galaxy M30s ,Android,128,6,4.1,220.987
+SAMSUNG,Galaxy M30S ,Android,128,4,4.3,220.987
+SAMSUNG,Galaxy M30s ,Android,128,6,4.1,220.987
+SAMSUNG,Galaxy M31 ,Android,64,6,4.3,211.887
+SAMSUNG,Galaxy M31 ,Android,64,6,4.3,220.987
+SAMSUNG,Galaxy M31 ,Android,128,6,4.3,232.544
+SAMSUNG,Galaxy M31 ,Android,128,6,4.3,233.857
+SAMSUNG,Galaxy M31 ,Android,128,8,4.3,242.502
+SAMSUNG,Galaxy M31 ,Android,128,8,4.3,259.87
+SAMSUNG,Galaxy M31s ,Android,128,6,4.3,249.314
+SAMSUNG,GALAXY M31S ,Android,128,8,4.3,251.29
+SAMSUNG,Galaxy M31s ,Android,128,6,4.3,256.425
+SAMSUNG,Galaxy M32 ,Android,64,4,4.2,190.97
+SAMSUNG,Galaxy M32 ,Android,64,4,4.2,191.737
+SAMSUNG,Galaxy M32 ,Android,64,4,4.2,200.187
+SAMSUNG,Galaxy M32 ,Android,64,4,4.2,201.37
+SAMSUNG,Galaxy M32 ,Android,128,6,4.4,220.74
+SAMSUNG,Galaxy M32 ,Android,128,6,4.4,220.974
+SAMSUNG,Galaxy M40 ,Android,128,6,4.1,185.9
+SAMSUNG,Galaxy M40 ,Android,128,6,4.1,201.37
+SAMSUNG,Galaxy M40 ,Android,128,6,4.1,259.987
+SAMSUNG,Galaxy M42 ,Android,128,8,4.3,318.487
+SAMSUNG,Galaxy M42 ,Android,128,8,4.3,389.974
+SAMSUNG,Galaxy M42 5G ,Android,128,6,4.3,221
+SAMSUNG,Galaxy M42 5G ,Android,128,6,4.3,278.85
+SAMSUNG,Galaxy M51 ,Android,128,8,4.4,298.987
+SAMSUNG,GALAXY M51 ,Android,128,6,4.3,324.87
+SAMSUNG,Galaxy M51 ,Android,128,8,4.4,363.987
+SAMSUNG,Galaxy Mega 5.8 ,Android,8,1.5,3.8,338
+SAMSUNG,Galaxy Note 10 ,Android,256,8,4.5,956.8
+SAMSUNG,Galaxy Note10 Lite ,Android,128,6,4.3,493.987
+SAMSUNG,Galaxy Note10 Lite ,Android,128,6,4.3,519.87
+SAMSUNG,Galaxy Note10 Lite ,Android,128,8,4.3,519.987
+SAMSUNG,Galaxy Note 10 Plus ,Android,512,12,4.6,1235
+SAMSUNG,Galaxy Note 10 Plus ,Android,256,12,4.6,779.987
+SAMSUNG,Galaxy Note 20 ,Android,256,8,4.3,1013.987
+SAMSUNG,Galaxy Note 20 ,Android,256,8,4.3,709.787
+SAMSUNG,Galaxy Note 20 Ultra 5G ,Android,256,12,4.5,1195.987
+SAMSUNG,Galaxy Note 3 ,Android,32,3,4.2,285.987
+SAMSUNG,Galaxy Note 3 ,Android,32,3,4.2,658.45
+SAMSUNG,Galaxy Note 3 Neo ,Android,16,2,4.2,146.25
+SAMSUNG,Galaxy Note 3 Neo ,Android,16,2,4.2,258.7
+SAMSUNG,Galaxy Note 4 ,Android,32,3,4.1,363.87
+SAMSUNG,Galaxy Note 4 ,Android,32,3,4.1,479.7
+SAMSUNG,Galaxy Note 4 ,Android,32,3,4.1,649.87
+SAMSUNG,Galaxy Note 4 ,Android,32,3,4.1,663
+SAMSUNG,Galaxy Note 5 ,Android,32,4,3.9,389.87
+SAMSUNG,Galaxy Note 5 ,Android,32,4,3.9,396.435
+SAMSUNG,Galaxy Note 5 ,Android,32,4,3.9,505.7
+SAMSUNG,Galaxy Note 5 ,Android,32,4,4.1,601.9
+SAMSUNG,Galaxy Note 5 ,Android,32,4,3.9,609.7
+SAMSUNG,Galaxy Note 5 ,Android,64,4,3.9,649.87
+SAMSUNG,Galaxy Note 5 ,Android,32,4,3.9,740.987
+SAMSUNG,Galaxy Note 5 Dual ,Android,32,4,4.1,518.687
+SAMSUNG,Galaxy Note 8 ,Android,64,6,4.6,453.687
+SAMSUNG,Galaxy Note 8 ,Android,64,6,4.6,467.87
+SAMSUNG,Galaxy Note 8 ,Android,64,6,4.6,649.987
+SAMSUNG,Galaxy Note 9 ,Android,512,8,4.6,1209
+SAMSUNG,Galaxy Note 9 ,Android,512,8,4.6,649.987
+SAMSUNG,Galaxy Note 9 ,Android,128,6,4.6,701.987
+SAMSUNG,Galaxy Note 9 ,Android,512,8,4.6,779.987
+SAMSUNG,Galaxy Note 9 ,Android,128,6,4.6,956.8
+SAMSUNG,Galaxy Note Edge ,Android,32,3,3.3,390
+SAMSUNG,Galaxy On6 ,Android,64,4,4.3,228.8
+SAMSUNG,Galaxy On7 ,Android,8,1.5,4.2,110.37
+SAMSUNG,Galaxy On8 ,Android,16,3,4.3,175.37
+SAMSUNG,Galaxy On8 ,Android,64,4,4.4,259.87
+SAMSUNG,Galaxy On Nxt ,Android,16,3,4.3,145.6
+SAMSUNG,Galaxy S10 ,Android,512,8,4.6,1196
+SAMSUNG,Galaxy S10 ,Android,128,8,4.6,519.987
+SAMSUNG,Galaxy S10e ,Android,128,6,4.5,767
+SAMSUNG,Galaxy S10 Lite ,Android,128,8,4.5,532.987
+SAMSUNG,Galaxy S10 Lite ,Android,512,8,4.5,597.987
+SAMSUNG,Galaxy S10 Lite ,Android,512,8,4.5,649.987
+SAMSUNG,Galaxy S10 Plus ,Android,128,8,4.6,1027
+SAMSUNG,Galaxy S10 Plus ,Android,512,8,4.6,1194.7
+SAMSUNG,Galaxy S10 Plus ,Android,1 TB,12,4.5,1533.87
+SAMSUNG,Galaxy S10 Plus ,Android,128,8,4.6,778.7
+SAMSUNG,Galaxy S20+ ,Android,128,8,4.4,714.987
+SAMSUNG,Galaxy S20 ,Android,128,8,4.3,649.74
+SAMSUNG,Galaxy S20 ,Android,128,8,4.3,687.765
+SAMSUNG,Galaxy S20 ,Android,128,8,4.3,962
+SAMSUNG,Galaxy S20 FE ,Android,128,8,4,649.987
+SAMSUNG,Galaxy S20 Ultra ,Android,128,12,4.2,1339
+SAMSUNG,Galaxy S20 Ultra ,Android,128,12,4.2,916.37
+SAMSUNG,Galaxy S21 ,Android,128,8,4.3,909.987
+SAMSUNG,Galaxy S21 ,Android,256,8,4.3,961.987
+SAMSUNG,Galaxy S21 Plus ,Android,128,8,4.4,935.987
+SAMSUNG,Galaxy S21 Plus ,Android,256,8,4.4,987.987
+SAMSUNG,Galaxy S21 SE 5G,Android,128,8,4.3,714.87
+SAMSUNG,Galaxy S21 SE 5G,Android,128,8,4.3,779.87
+SAMSUNG,Galaxy S21 Ultra ,Android,256,12,4.5,1377.987
+SAMSUNG,Galaxy S21 Ultra ,Android,512,16,4.3,1520.987
+SAMSUNG,Galaxy S3 Neo ,Android,16,1.5,4.3,175.487
+SAMSUNG,Galaxy S3 Neo ,Android,16,1.5,4.3,221
+SAMSUNG,Galaxy S4 ,Android,16,2,3.9,207.987
+SAMSUNG,Galaxy S4 ,Android,16,2,3.9,528.97
+SAMSUNG,Galaxy S4 Mini ,Android,8,1.5,3.8,265.2
+SAMSUNG,Galaxy S4 Zoom ,Android,8,1.5,3.8,259.987
+SAMSUNG,Galaxy S5 ,Android,16,2,3.9,285.987
+SAMSUNG,Galaxy S6 ,Android,32,3,4,440.7
+SAMSUNG,Galaxy S6 ,Android,64,3,4,726.7
+SAMSUNG,Galaxy S6 Edge+ ,Android,32,4,4.2,364
+SAMSUNG,Galaxy S6 Edge+ ,Android,32,4,4.2,454.987
+SAMSUNG,Galaxy S6 Edge ,Android,32,3,4,389.987
+SAMSUNG,Galaxy S6 Edge ,Android,32,3,4,484.887
+SAMSUNG,Galaxy S6 Edge ,Android,64,3,4,519.987
+SAMSUNG,Galaxy S6 Edge ,Android,32,3,4,583.7
+SAMSUNG,Galaxy S6 Edge ,Android,64,3,4,700.7
+SAMSUNG,Galaxy S7 ,Android,32,4,4.4,288.886
+SAMSUNG,Galaxy S7 ,Android,32,4,4.4,305.5
+SAMSUNG,Galaxy S7 ,Android,32,4,4.4,324.987
+SAMSUNG,Galaxy S7 Edge ,Android,32,4,4.4,479.7
+SAMSUNG,Galaxy S7 Edge ,Android,32,4,4.4,544.7
+SAMSUNG,Galaxy S8 ,Android,64,4,4.6,649.87
+SAMSUNG,Galaxy S8 Plus ,Android,128,6,4.6,632.697
+SAMSUNG,Galaxy S9 ,Android,128,4,4.4,518.7
+SAMSUNG,Galaxy S9 ,Android,128,4,4.4,804.7
+SAMSUNG,Galaxy S9 ,Android,64,4,4.4,812.5
+SAMSUNG,Galaxy S9 ,Android,256,4,4.4,856.7
+SAMSUNG,Galaxy S9 Plus ,Android,128,6,4.5,895.7
+SAMSUNG,Galaxy S9 Plus ,Android,64,6,4.5,910
+SAMSUNG,Galaxy Z Flip3 5G ,Android,128,8,4.3,1104.987
+SAMSUNG,Galaxy Z Flip3 5G ,Android,256,8,4.3,1156.987
+SAMSUNG,Galaxy Z Fold3 5G ,Android,256,12,4.4,1949.987
+SAMSUNG,Galaxy Z Fold3 5G ,Android,512,12,4.4,2053.987
+SAMSUNG,Grand Prime ,Android,8,1,4,103.896
+SAMSUNG,Grand Prime ,Android,8,1,4,141.687
+SAMSUNG,Grand Prime 4G ,Android,8,1,4,103.987
+SAMSUNG,Grand Prime 4G ,Android,8,1,4,127.829
+SAMSUNG,M01 core ,Android,16,1,3.9,64.987
+SAMSUNG,M01 core ,Android,32,2,3.9,77.87
+SAMSUNG,M01 core ,Android,32,2,3.9,77.987
+SAMSUNG,M01 core ,Android,16,1,3.9,96.187
+SAMSUNG,M02s ,Android,32,3,4.2,116.987
+SAMSUNG,M02s ,Android,32,3,4.2,124.007
+SAMSUNG,M02s ,Android,32,3,4.2,125.307
+SAMSUNG,M02s ,Android,64,4,4.1,129.987
+SAMSUNG,M02s ,Android,64,4,4.1,135.174
+SAMSUNG,M02s ,Android,64,4,4.1,149.487
+SAMSUNG,M21 2021 Edition ,Android,64,4,4,171.912
+SAMSUNG,M21 2021 Edition,Android,128,6,4.2,193.167
+SAMSUNG,M31 ,Android,128,6,4.3,231.985
+SAMSUNG,M31 Prime ,Android,64,6,4.3,208
+SAMSUNG,M31 Prime ,Android,128,6,4.3,217.75
+SAMSUNG,M31 Prime ,Android,128,6,4.3,223.522
+SAMSUNG,M31 Prime ,Android,128,6,4.3,224.367
+SAMSUNG,M31 Prime ,Android,64,6,4.3,243.087
+SAMSUNG,M31s ,Android,128,8,4.3,272.337
+SAMSUNG,M31s ,Android,128,8,4.3,285.35
+SAMSUNG,M52 5G,Android,128,8,4.2,264.55
+SAMSUNG,M52 5G,Android,128,8,4.2,298.857
+SAMSUNG,M52 5G,Android,128,6,4.3,331.357
+SAMSUNG,M52 5G,Android,128,6,4.3,337.87
+SAMSUNG,M52 5G,Android,128,8,4.3,354.107
+SAMSUNG,M52 5G,Android,128,8,4.3,361.907
+SAMSUNG,On5 Pro ,Android,16,2,4.2,84.24
+SAMSUNG,On5 Pro ,Android,16,2,4.2,90.87
+SAMSUNG,On7 Pro ,Android,16,2,4.1,77.87
+SAMSUNG,On7 Pro ,Android,16,2,4.1,85.137
+SAMSUNG,S7 Edge ,Android,128,4,4.3,479.7
+SAMSUNG,Sm-G361Hhadins ,Android,8,1,3,116.987
+SAMSUNG,Tizen Z3 ,Android,8,1,3.3,64.987
+SAMSUNG,Tizen Z3 ,Android,8,1,3.3,90.87
+SAMSUNG,Z2 ,Android,8,1,3.6,62.27
+SAMSUNG,Z3 ,Android,8,1,3.4,72.67
+SAMSUNG,Z4 ,Android,8,1,3.5,80.6
+Xiaomi,11i 5G,Android,128,6,4.3,324.987
+Xiaomi,11i 5G,Android,128,8,4.3,376.987
+Xiaomi,11i Hypercharge 5G,Android,128,6,4.2,350.987
+Xiaomi,11i Hypercharge 5G,Android,128,8,4.3,376.987
+Xiaomi,11 Lite NE,Android,128,6,4.3,311.87
+Xiaomi,11 Lite NE,Android,128,8,4.4,311.987
+Xiaomi,11 Lite NE,Android,128,6,4.4,322.374
+Xiaomi,11 Lite NE,Android,128,8,4.3,333.892
+Xiaomi,11 Lite NE,Android,128,6,4.3,337.87
+Xiaomi,11 Lite NE,Android,129,8,4.3,337.987
+Xiaomi,11 Lite NE,Android,128,8,4.4,363.987
+Xiaomi,11 Lite NE,Android,128,6,4.4,376.987
+Xiaomi,9A Sport,Android,32,2,4.3,101.374
+Xiaomi,9A Sport,Android,32,3,4.3,111.787
+Xiaomi,Mi 10 ,Android,256,8,4.2,596.323
+Xiaomi,Mi 10 ,Android,256,8,4.2,714.987
+Xiaomi,Mi 10i ,Android,128,6,4.3,294.45
+Xiaomi,Mi 10i ,Android,128,6,4.3,298.35
+Xiaomi,Mi 10i ,Android,128,8,4.3,323.57
+Xiaomi,Mi 10i ,Android,128,8,4.3,350.857
+Xiaomi,Mi 10T ,Android,128,6,4.2,428.987
+Xiaomi,Mi 10T ,Android,128,8,4.4,454.987
+Xiaomi,Mi 11 Lite ,Android,128,6,4.2,285.987
+Xiaomi,Mi 11 Lite ,Android,128,8,4.2,311.987
+Xiaomi,Mi 11X ,Android,128,6,4.4,315.679
+Xiaomi,Mi 11X ,Android,128,6,4.3,316.394
+Xiaomi,Mi 11X ,Android,128,6,4.2,321.672
+Xiaomi,Mi 11X ,Android,128,8,4.5,347.854
+Xiaomi,Mi 11X ,Android,128,8,4.4,348.712
+Xiaomi,Mi 11X ,Android,128,8,4.2,348.764
+Xiaomi,Mi 11X ,Android,128,8,4.2,363.35
+Xiaomi,MI 11X 5G ,Android,128,6,4.1,318.396
+Xiaomi,MI 11X 5G ,Android,128,6,4.1,341.835
+Xiaomi,MI 11X 5G ,Android,128,6,4.4,344.435
+Xiaomi,Mi 11X Pro 5G ,Android,128,8,4.2,471.77
+Xiaomi,Mi 11X Pro 5G ,Android,256,8,4.2,506.35
+Xiaomi,Mi 11X Pro 5G ,Android,256,8,4.4,506.987
+Xiaomi,Mi 11X Pro 5G ,Android,128,8,4.4,519.987
+Xiaomi,MI3 ,Android,16,2,4.3,103.987
+Xiaomi,Mi A2 ,Android,64,4,4.4,155.324
+Xiaomi,Mi A2 ,Android,64,4,4.3,155.87
+Xiaomi,Mi A2 ,Android,64,4,4.4,162.487
+Xiaomi,Mi A2 ,Android,128,6,4.3,187.174
+Xiaomi,Mi A2 ,Android,128,6,4.4,187.759
+Xiaomi,Mi A2 ,Android,128,6,3.8,194.337
+Xiaomi,Mi A3 ,Android,64,4,4.3,168.87
+Xiaomi,Mi Max 2 ,Android,64,4,4.4,181.87
+Xiaomi,Note 10 lite,Android,128,4,4.3,194.87
+Xiaomi,Note 10 lite,Android,64,4,4.3,207.974
+Xiaomi,Redmi 5 ,Android,32,3,4.2,116.87
+Xiaomi,Redmi 5 ,Android,32,3,4.4,122.187
+Xiaomi,Redmi 5 ,Android,32,3,4.4,128.7
+Xiaomi,Redmi 5 ,Android,64,4,4.2,142.87
+Xiaomi,Redmi 6 ,Android,64,3,4.2,135.85
+Xiaomi,Redmi 6A ,Android,32,2,4.3,100.087
+Xiaomi,Redmi 6A ,Android,32,2,4.3,103.857
+Xiaomi,Redmi 6A ,Android,32,2,4.3,97.487
+Xiaomi,Redmi 6 Pro ,Android,32,3,4.5,129.87
+Xiaomi,Redmi 6 Pro ,Android,64,4,4.4,155.987
+Xiaomi,Redmi 6 Pro ,Android,64,4,4.5,160.537
+Xiaomi,Redmi 7 ,Android,32,2,4.5,123.37
+Xiaomi,Redmi 7A ,Android,16,2,4.5,84.487
+Xiaomi,Redmi 7A ,Android,32,2,4.5,90.987
+Xiaomi,Redmi 8 ,Android,64,4,4.3,142.987
+Xiaomi,Redmi 8A ,Android,32,2,4.4,103.987
+Xiaomi,Redmi 8A Dual ,Android,32,3,4.4,107.887
+Xiaomi,Redmi 8A Dual ,Android,64,3,4.2,111.293
+Xiaomi,Redmi 8A Dual ,Android,64,3,4.5,119.587
+Xiaomi,Redmi 8A Dual ,Android,64,3,4.4,123.487
+Xiaomi,Redmi 9 ,Android,64,4,4.4,127.764
+Xiaomi,Redmi 9 ,Android,64,4,4.2,130.91
+Xiaomi,Redmi 9 ,Android,64,4,4.4,131.573
+Xiaomi,Redmi 9 ,Android,128,4,4.4,145.587
+Xiaomi,Redmi 9A ,Android,32,2,4.1,100.074
+Xiaomi,Redmi 9A ,Android,32,3,4.4,109.057
+Xiaomi,Redmi 9A ,Android,32,3,4.5,110.474
+Xiaomi,Redmi 9A ,Android,32,2,4.5,98.657
+Xiaomi,Redmi 9A ,Android,32,2,4.5,99.047
+Xiaomi,REDMI 9i ,Android,64,4,4.2,114.387
+Xiaomi,REDMI 9 Power ,Android,64,4,4.4,149.487
+Xiaomi,REDMI 9 Power ,Android,128,6,4.2,175.487
+Xiaomi,REDMI 9 Prime ,Android,64,4,4.4,136.487
+Xiaomi,REDMI 9 Prime ,Android,128,4,4.3,181.987
+Xiaomi,Redmi K20 ,Android,128,6,4.1,239.577
+Xiaomi,Redmi K20 ,Android,64,6,4.5,271.687
+Xiaomi,Redmi K20 ,Android,128,6,4.5,277.537
+Xiaomi,Redmi K20 ,Android,64,6,3.8,298.987
+Xiaomi,Redmi K20 Pro ,Android,128,6,4.5,376.987
+Xiaomi,Redmi K20 Pro ,Android,256,8,4.4,389.987
+Xiaomi,REDMI Note 10 Pro ,Android,128,6,4.3,245.531
+Xiaomi,REDMI Note 10 Pro ,Android,128,6,4.4,257.387
+Xiaomi,REDMI Note 10S ,Android,128,6,4.4,230.945
+Xiaomi,REDMI Note 10S ,Android,128,6,4.3,233.935
+Xiaomi,Redmi Note 11T 5G,Android,64,6,4.2,236.431
+Xiaomi,Redmi Note 11T 5G,Android,128,6,4.2,244.114
+Xiaomi,Redmi Note 11T 5G,Android,64,6,4.3,246.727
+Xiaomi,Redmi Note 11T 5G,Android,130,6,4.2,248.3
+Xiaomi,Redmi Note 11T 5G,Android,129,6,4.2,248.547
+Xiaomi,Redmi Note 11T 5G,Android,128,8,4.3,282.568
+Xiaomi,Redmi Note 11T 5G,Android,129,8,4.2,288.119
+Xiaomi,Redmi Note 11T 5G,Android,128,8,4.3,288.457
+Xiaomi,Redmi Note 4 ,Android,32,3,4.4,111.67
+Xiaomi,Redmi Note 4 ,Android,32,3,4.3,123.487
+Xiaomi,Redmi Note 4 ,Android,64,4,4.5,129.987
+Xiaomi,Redmi Note 5 ,Android,32,3,4.2,129.87
+Xiaomi,Redmi Note 5 ,Android,32,3,4.4,129.974
+Xiaomi,Redmi Note 5 ,Android,64,4,4.3,142.987
+Xiaomi,Redmi Note 5 ,Android,64,4,4.4,149.487
+Xiaomi,Redmi Note 5 Pro ,Android,64,4,4.4,194.987
+Xiaomi,Redmi Note 5 Pro ,Android,64,6,4.2,220.987
+Xiaomi,Redmi Note 6 Pro ,Android,64,4,4.4,160.537
+Xiaomi,Redmi Note 6 Pro ,Android,64,4,4.4,161.837
+Xiaomi,Redmi Note 6 Pro ,Android,64,4,4.4,162.487
+Xiaomi,Redmi Note 6 Pro ,Android,64,4,4.4,168.987
+Xiaomi,Redmi Note 6 Pro ,Android,64,6,4.5,194.87
+Xiaomi,Redmi Note 6 Pro ,Android,64,6,4.1,194.987
+Xiaomi,Redmi Note 6 Pro ,Android,64,6,4.5,233.987
+Xiaomi,Redmi Note 7 ,Android,64,4,4.3,152.724
+Xiaomi,Redmi Note 7 ,Android,32,3,4.2,154.7
+Xiaomi,Redmi Note 7 ,Android,32,3,4.4,155.298
+Xiaomi,Redmi Note 7 ,Android,64,4,4.1,174.187
+Xiaomi,Redmi Note 7 Pro ,Android,64,4,4.5,175.487
+Xiaomi,Redmi Note 7 Pro ,Android,64,4,4.5,187.85
+Xiaomi,Redmi Note 7 Pro ,Android,64,6,4.5,194.74
+Xiaomi,Redmi Note 7 Pro ,Android,64,4,4.3,194.987
+Xiaomi,Redmi Note 7 Pro ,Android,128,6,4.5,200.837
+Xiaomi,Redmi Note 7 Pro ,Android,64,6,4.5,207.987
+Xiaomi,Redmi Note 7 Pro ,Android,128,6,3.8,213.187
+Xiaomi,Redmi Note 7 Pro ,Android,64,6,4.3,220.987
+Xiaomi,Redmi Note 7 Pro ,Android,128,6,4.1,233.987
+Xiaomi,Redmi Note 7S ,Android,64,4,4.3,175.5
+Xiaomi,Redmi Note 7S ,Android,64,4,4.4,180.7
+Xiaomi,Redmi Note 7S ,Android,64,4,4.4,181.987
+Xiaomi,Redmi Note 8 ,Android,64,4,2.3,155.987
+Xiaomi,Redmi Note 8 ,Android,64,4,4.3,168.987
+Xiaomi,REDMI Note 9 ,Android,64,4,4.3,155.987
+Xiaomi,Redmi Note 9 Pro ,Android,64,4,4.3,194.987
+Xiaomi,Redmi Note 9 Pro ,Android,64,4,4.3,207.87
+Xiaomi,Redmi Note 9 Pro ,Android,128,4,4.5,207.974
+Xiaomi,Redmi Note 9 Pro ,Android,64,4,4.3,214.344
+Xiaomi,Redmi Note 9 Pro ,Android,128,6,4.3,240.487
+Xiaomi,Redmi Y1 ,Android,32,3,4.3,116.87
+Xiaomi,Redmi Y2 ,Android,32,3,4.2,123.084
+Xiaomi,Redmi Y2 ,Android,32,3,4.3,123.214
+Xiaomi,Redmi Y2 ,Android,32,3,4.3,123.487
+Xiaomi,Redmi Y2 ,Android,32,3,4.3,129.987
+Xiaomi,Redmi Y2 ,Android,64,4,4.3,141.544
+Xiaomi,Redmi Y2 ,Android,64,4,4.3,142.987
+Xiaomi,Redmi Y3 ,Android,32,3,4.3,122.85
+Xiaomi,Redmi Y3 ,Android,32,3,4.2,129.35
+Xiaomi,Redmi Y3 ,Android,64,4,4.3,162.487
+Xiaomi,Redmi Y3 ,Android,64,4,4.3,168.987
+Xiaomi,Y11T Pro,Android,256,8,4.3,558.987

@@ -1,0 +1,28 @@
+id,brand,model,network_technology,OS,dual_sim,internal_memory,RAM,camera_resolution_rear,headphone_jack,price
+1,Apple,iPhone 14,5G,iOS16,Yes,128,6,12,No,1019
+2,Apple,iPhone SE,5G,iOS15.4,No,64,4,12,No,499.99
+3,Apple,iPhone13,5G,iOS15,Yes,128,4,12,No,834.99
+4,Samsung,Galaxy Z Flip4,5G,Android 12,No,128,8,12,No,798.84
+5,Samsung,Galaxy Z Fold4,5G,Android 12,Yes,256,12,50,No,1499
+6,Samsung,Galaxy A23,4G,Android 12,Yes,64,4,50,Yes,176
+7,Samsung,Galaxy S22 Ultra 5G,5G,Android 12,Yes,128,8,108,No,993.95
+8,Huawei,nova 9 SE 5G,5G,Android 11,Yes,128,8,108,No,242
+9,Huawei,P50E,4G,HarmonyOS 2.0,Yes,256,8,50,No,799
+10,Huawei,Enjoy 20e,4G,EMUI 10.1,Yes,128,4,13,Yes,326
+11,OnePlus,OnePlus 10T,5G,Android 12,Yes,128,8,50,No,698.9
+12,OnePlus,Nord 2T,5G,Android 12,Yes,128,8,50,No,349
+13,OnePlus,9 Pro,5G,Android 11,Yes,256,8,48,No,579
+14,OnePlus,Nord CE 2 Lite 5G,5G,Android 12,Yes,128,6,64,Yes,213.39
+15,Nokia,X30,5G,Android 12,Yes,128,6,50,No,585
+16,Nokia,G60,5G,Android 12,Yes,128,4,50,Yes,349
+17,Nokia,G21,4G,Android 11,Yes,64,4,50,Yes,159.99
+18,Nokia,G400,5G,Android 12,No,64,4,48,Yes,256.53
+19,Sony,Xperia 5 IV,5G,Android 12,Yes,128,8,12,Yes,998
+20,Sony,Xperia 1 IV,5G,Android 12,Yes,256,12,12,Yes,1349
+21,Sony,Xperia 10 IV,5G,Android 12,Yes,128,6,12,Yes,475
+22,Sony,Xperia 1 III,5G,Android 11,Yes,256,12,12,Yes,999
+23,Xiaomi,Redmi Note 11,4G,Android 11,Yes,128,4,50,Yes,183.24
+24,Xiaomi,Redmi Note 10 Pro,4G,Android 11,Yes,128,6,108,Yes,231.38
+25,Xiaomi,Redmi Note 11 Pro,4G,Android 11,Yes,128,6,108,Yes,264.71
+26,Xiaomi,Poco M5,4G,Android 12,Yes,128,6,50,Yes,257.9
+27,Motorola,Edge 30 Ultra,5G,Android 12,Yes,256,12,200,No,884.15
