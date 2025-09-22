@@ -1,0 +1,28 @@
+id,RAM,ROM,battery,screen,brand,model,rear_cameras,release_date,average_cost
+1,12,1024,5000,6.9,Apple,iPhone 17 Pro Max,3,September 2025,1839
+2,16,1024,5000,6.9,Samsung,Galaxy S25 Ultra,4,February 2026 (Expected),1400
+3,24,1024,5400,6.82,OnePlus,13,3,November 2024,1150
+4,16,1024,5820,7.9,Oppo,Find N5,3,February 2025,1634
+5,16,512,5200,6.8,Huawei,Pura 80 Ultra,3,June 2025,1200
+6,12,1024,5400,6.8,Vivo,X200 Ultra,3,Q4 2025 (Expected),1250
+7,16,1024,5820,7.9,Honor,Magic V5,3,July 2025,1560
+8,16,512,6000,6.78,Asus,ROG Phone 9 FE,3,February 2025,860
+9,12,1024,6000,6.82,iQOO,13 5G,3,October 2025 (Expected),1100
+10,12,512,6200,6.83,Oppo,Reno14 Pro,3,May 2025,550
+11,12,512,7000,6.67,Xiaomi,Redmi Note 15 Pro+,3,Q4 2025 (Expected),480
+12,12,512,5000,6.67,Poco,F7,3,June 2025,393
+13,12,512,5500,6.78,Realme,GT 6T,2,May 2024,650
+14,12,512,4200,6.9,Motorola,Razr Ultra (2025),2,May 2025,1347
+15,12,256,5500,6.7,OnePlus,13R,3,January 2025,503
+16,8,256,5000,6.67,CMF,Phone 2 Pro,3,May 2025,259
+17,8,256,5000,6.5,Samsung,Galaxy A25 5G,3,December 2024 (Expected),220
+18,8,256,4500,6.3,Google,Pixel 9a,2,April 2025,462
+19,8,128,6000,6.7,Infinix,Smart 10 Plus,2,June 2025,70
+20,8,128,6000,6.5,Oppo,A5i Pro 5G,2,July 2025 (Expected),225
+21,6,128,6000,6.7,Motorola,Moto G86 Power,3,July 2025,300
+22,4,128,6300,6.75,Realme,Note 70,2,March 2025,180
+23,4,128,6000,6.5,Vivo,Y19s Pro,2,Q3 2025 (Expected),160
+24,6,128,5000,6.6,Realme,C71,2,June 2025,157
+25,4,64,5000,6.5,Samsung,Galaxy A16,3,Q4 2025 (Expected),140
+26,4,64,5000,6.5,Motorola,Moto G55,3,September 2024,158
+27,4,64,5000,6.9,Poco,C85,2,September 2025,120

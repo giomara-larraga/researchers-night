@@ -17,7 +17,7 @@ import numpy as np
 
 from flask import Response
 
-data = pd.read_csv("./data/Phone_dataset_updated.csv", header=0)
+data = pd.read_csv("./data/Phones_2025.csv", header=0)
 details = pd.read_csv("./data/Phone_details.csv", header=0)
 
 names = details.loc[0]
@@ -35,7 +35,7 @@ details_on_card = details.columns[details_on_card == 1]
 fitness_columns = {
     "Memory": -1,
     "RAM": -1,
-    "Camera (MP)": -1,
+    "Battery": -1,
     "Price (Euros)": 1,
 }
 
@@ -215,16 +215,17 @@ app_page = html.Div(
                                                         ),
                                                         dcc.Slider(
                                                             id="memory-choice",
-                                                            min=32,
-                                                            max=256,
+                                                            min=64,
+                                                            max=1024,
                                                             step=None,
                                                             included=False,
                                                             value=256,
                                                             marks={
-                                                                32: "32",
                                                                 64: "64",
                                                                 128: "128",
                                                                 256: "256",
+                                                                512: "512",
+                                                                1024: "1024",
                                                             },
                                                             className="dash-slider",
                                                         ),
@@ -245,12 +246,12 @@ app_page = html.Div(
                                                             value=12,
                                                             included=False,
                                                             marks={
-                                                                2: "2",
                                                                 4: "4",
                                                                 6: "6",
                                                                 8: "8",
-                                                                10: "10",
                                                                 12: "12",
+                                                                16: "16",
+                                                                24: "24",
                                                             },
                                                             className="dash-slider",
                                                         ),
@@ -260,25 +261,27 @@ app_page = html.Div(
                                                 dbc.Row(
                                                     children=[
                                                         dbc.Label(
-                                                            "Choose desired camera resolution (MP)",
+                                                            "Choose desired battery capacity (1000mAh)",
                                                             html_for="cam-choice",
                                                         ),
                                                         dcc.Slider(
                                                             id="cam-choice",
-                                                            min=0,
-                                                            max=130,
-                                                            step=1,
+                                                            min=4200,
+                                                            max=7000,
+                                                            step=200,
                                                             included=False,
                                                             value=70,
                                                             marks={
-                                                                0: "0",
-                                                                10: "10",
-                                                                30: "30",
-                                                                50: "50",
-                                                                70: "70",
-                                                                90: "90",
-                                                                110: "110",
-                                                                130: "130",
+                                                                4200: "4200",
+                                                                4500: "4500",
+                                                                5000: "5000",
+                                                                5200: "5200",
+                                                                5400: "5400",
+                                                                5500: "5500",
+                                                                5820: "5820",
+                                                                6000: "6000",
+                                                                6300: "6300",
+                                                                7000: "7000",
                                                             },
                                                             className="dash-slider",
                                                         ),
@@ -299,8 +302,8 @@ app_page = html.Div(
                                                             included=False,
                                                             value=100,
                                                             marks={
-                                                                200: "200",
-                                                                400: "400",
+                                                                50: "50",
+                                                                100: "100",
                                                                 600: "600",
                                                                 800: "800",
                                                                 1000: "1000",
@@ -429,22 +432,25 @@ app_page = html.Div(
     ],
 )
 def results(*choices):
+    choice_data = data
+    """     
     if choices[0] == "both":
         choice_data = data
     elif choices[0] == "IOS":
         choice_data = data[[True if "iOS" in st else False for st in data["OS"]]]
     if choices[0] == "Android":
-        choice_data = data[[True if "Android" in st else False for st in data["OS"]]]
+        choice_data = data[[True if "Android" in st else False for st in data["OS"]]] """
     relevant_data = choice_data[
         [
             "Memory",
             "RAM",
-            "Camera (MP)",
+            "Battery",
             "Price (Euros)",
         ]
     ].reset_index(drop=True)
-    card_data = choice_data[details_on_card].reset_index(drop=True)
-
+    # Include 'Id' column in card_data for the other_options function
+    card_data_columns = list(details_on_card) + ["Id"]
+    card_data = choice_data[card_data_columns].reset_index(drop=True)
     maxi = np.asarray([-1, -1, -1, 1])
     relevant_data = relevant_data * maxi
     ideal = relevant_data.min().values
@@ -477,7 +483,7 @@ def results(*choices):
 
 def table_from_data(data, choices):
     # print(choices)
-    to_compare = ["Memory", "RAM", "Camera (MP)", "Price (Euros)"]
+    to_compare = ["Memory", "RAM", "Battery", "Price (Euros)"]
     # print(data[to_compare].values)
     # print(data)
 
