@@ -164,6 +164,46 @@
 .main_figure{
     width: 100%;
 }
+
+/* Dash slider styling to prevent label overlapping and ensure proper display */
+.dash-slider {
+    margin: 25px 10px !important;
+    padding: 0 10px;
+    width: calc(100% - 20px) !important;
+}
+
+.dash-slider .rc-slider {
+    margin: 14px 6px 10px 6px;
+}
+
+.dash-slider .rc-slider-rail {
+    background-color: #e9ecef !important;
+    height: 4px !important;
+}
+
+.dash-slider .rc-slider-track {
+    background-color: #4582ec !important;
+    height: 4px !important;
+}
+
+.dash-slider .rc-slider-handle {
+    border: 2px solid #4582ec !important;
+    background-color: #fff !important;
+    width: 14px !important;
+    height: 14px !important;
+    margin-top: -5px !important;
+}
+
+.dash-slider .rc-slider-mark-text {
+    font-size: 12px !important;
+    color: #495057 !important;
+    white-space: nowrap;
+}
+
+.dash-slider .rc-slider-mark {
+    top: 22px !important;
+}
+
 /*.body{
     font-size: calc(26px - ((26 - 16) * (1600px - 100vw) / (1600 - 300)));
 }*/
