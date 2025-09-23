@@ -92,10 +92,12 @@ You can deploy your Phone Selector app directly from the OpenShift web console u
 #### Method 1: Using the Developer Catalog (Easiest)
 
 1. **Access OpenShift Web Console:**
+
    - Open your OpenShift cluster URL in a web browser
    - Login with your credentials
 
 2. **Create or Select Project:**
+
    - Click **"Projects"** → **"Create Project"**
    - Name: `phone-selector`
    - Display name: `Phone Selector App`
@@ -105,13 +107,14 @@ You can deploy your Phone Selector app directly from the OpenShift web console u
    - Go to **"Developer"** perspective (top-left dropdown)
    - Click **"+Add"** → **"From Catalog"**
    - Search for **"Import from Git"** or click **"Git Repository"**
-   
 4. **Configure Git Repository:**
+
    - **Git Repo URL:** `https://github.com/giomara-larraga/researchers-night.git`
    - **Git Reference:** `master` (or your branch)
    - **Context Dir:** Leave empty (uses root directory)
 
 5. **Configure Build:**
+
    - **Builder Image:** Select **"Python"** (should auto-detect)
    - **Builder Image Version:** `3.10-ubi8` or latest
    - **Application Name:** `phone-selector`
@@ -120,19 +123,21 @@ You can deploy your Phone Selector app directly from the OpenShift web console u
 6. **Advanced Options:**
    - Click **"Show advanced Git options"**
    - **Dockerfile Path:** `Dockerfile` (if using Docker strategy)
-   
 7. **Resource Configuration:**
+
    - **CPU Request:** `250m`
    - **CPU Limit:** `500m`
    - **Memory Request:** `256Mi`
    - **Memory Limit:** `512Mi`
 
 8. **Environment Variables:**
+
    - Add environment variables:
      - `PORT` = `8050`
      - `DEBUG` = `false`
 
 9. **Create Route:**
+
    - Check **"Create a route to the application"**
    - **Hostname:** Leave empty for auto-generation
    - **Path:** `/`
@@ -146,10 +151,12 @@ You can deploy your Phone Selector app directly from the OpenShift web console u
 #### Method 2: Import YAML/Template via UI
 
 1. **Navigate to Import YAML:**
+
    - Go to **"Administrator"** perspective
    - Click **"+"** (Import YAML) in the top navigation
 
 2. **Upload Template:**
+
    - Copy the contents of `openshift/template.yaml`
    - Paste into the YAML editor
    - Click **"Create"**
@@ -168,9 +175,11 @@ You can deploy your Phone Selector app directly from the OpenShift web console u
 #### Method 3: Drag & Drop Individual YAML Files
 
 1. **Navigate to Import:**
+
    - **"Administrator"** perspective → **"+"** (Import YAML)
 
 2. **Import Files in Order:**
+
    - Upload each file from the `openshift/` directory:
      - `imagestream.yaml`
      - `buildconfig.yaml`
@@ -187,19 +196,23 @@ You can deploy your Phone Selector app directly from the OpenShift web console u
 #### Method 4: Using Source-to-Image (S2I) Wizard
 
 1. **Start S2I Process:**
+
    - **"Developer"** perspective → **"+Add"** → **"Import from Git"**
 
 2. **Configure Source:**
+
    - **Git Repo URL:** `https://github.com/giomara-larraga/researchers-night.git`
    - **Show Advanced Git Options:**
      - **Git Reference:** `master`
      - **Context Dir:** `/` (root)
 
 3. **Select Builder:**
+
    - **Builder Image:** Python
    - **Builder Image Version:** 3.10
 
 4. **Application Configuration:**
+
    - **Application:** Create new application `phone-selector-app`
    - **Name:** `phone-selector`
    - **Resources:** Deployment
@@ -207,8 +220,8 @@ You can deploy your Phone Selector app directly from the OpenShift web console u
 5. **Advanced Options:**
    - **Create a route:** ✓ Checked
    - **Labels:** Add `app=phone-selector`
-   
 6. **Environment Variables:**
+
    - Click **"Deployment"** → Add Environment Variables:
      - `PORT` = `8050`
      - `DEBUG` = `false`
@@ -222,18 +235,22 @@ You can deploy your Phone Selector app directly from the OpenShift web console u
 After deployment, you can monitor your application:
 
 1. **Overview Dashboard:**
+
    - **"Developer"** → **"Topology"**
    - See visual representation of your app components
 
 2. **Build Monitoring:**
+
    - **"Builds"** → **"Build Configs"** → Click your build
    - View build logs in real-time
 
 3. **Pod Monitoring:**
+
    - **"Workloads"** → **"Pods"**
    - Click on pod to see logs, terminal, events
 
 4. **Route Access:**
+
    - **"Networking"** → **"Routes"**
    - Click on route URL to access your application
 
@@ -253,6 +270,7 @@ After deployment, you can monitor your application:
 ### 🔧 **Post-Deployment via UI:**
 
 After successful deployment:
+
 1. **Get Application URL:** **"Networking"** → **"Routes"** → Copy URL
 2. **Scale Application:** **"Workloads"** → **"Deployments"** → Adjust replica count
 3. **View Logs:** **"Workloads"** → **"Pods"** → Select pod → **"Logs"** tab
