@@ -46,6 +46,7 @@ maxi = details.loc[1].astype(int)
 
 # Extract flags for which details should be displayed on cards (row 2 of details)
 details_on_card = details.loc[2].astype(int)
+print(details_on_card)
 details_on_card = details.columns[details_on_card == 1]
 
 
@@ -646,8 +647,8 @@ def table_from_data(data, choices):
 
     # Create table rows for all displayed specifications
     table_rows = []
-    # Skip the first column (usually Model name) and show the rest, excluding hidden fields
-    for col in data.index[1:]:
+    # Iterate through all columns, excluding hidden fields
+    for col in data.index:
         # Skip hidden fields
         if col in hidden_fields:
             continue
