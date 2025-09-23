@@ -79,20 +79,26 @@
 .table{
     font-size: 1em;
 }
+.card-header{
+    font-family: Aleo;
+    font-size: 1rem !important;
+    font-weight: bold !important;
+}
+
 .card-body p{
     font-family: Lato;
-    font-size: 1em;
+    font-size: 1rem;
 }
 
 .main-title{
     font-family: Aleo;
-    font-size:3em;
+    font-size:5rem;
     margin-left: 5rem;
     color:#fff;
 }
 
 .main-p{
-    font-size: 1em;
+    font-size: 1.5rem;
     margin-top: 25px !important;
     text-align: left;
     font-weight: 100;
@@ -167,10 +173,15 @@
 
 /* Dash slider styling to prevent label overlapping and ensure proper display */
 .dash-slider {
-    margin: 25px 10px !important;
+    /*margin: 10px 4px !important;*/
     padding: 0 10px;
     width: calc(100% - 20px) !important;
+    font-size: 1rem !important;
 }
+
+.form-label{
+    font-size: 1rem !important;
+}   
 
 .dash-slider .rc-slider {
     margin: 14px 6px 10px 6px;
@@ -195,7 +206,7 @@
 }
 
 .dash-slider .rc-slider-mark-text {
-    font-size: 12px !important;
+    font-size: 0.8rem !important;
     color: #495057 !important;
     white-space: nowrap;
 }

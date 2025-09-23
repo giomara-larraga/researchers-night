@@ -21,15 +21,9 @@ Dependencies:
 - plotly: Visualization components
 """
 
-from http import server
-from pydoc import classname
-from tkinter.ttk import Style
 from dash import Dash, dcc, html, Input, Output, callback
 
 import dash_bootstrap_components as dbc
-from dash import dash_table
-import plotly.express as ex
-import plotly.graph_objects as go
 import pandas as pd
 import numpy as np
 
@@ -93,7 +87,7 @@ app.layout = html.Div(
 # Home Page Layout
 # Landing page with introduction and call-to-action button
 home_page = html.Div(
-    style={"backgroundColor": "#002957"},  # Dark blue background
+    style={"backgroundColor": "#002957", "overflow": "hidden"},  # Dark blue background
     children=[
         dbc.Row(
             [
@@ -114,7 +108,7 @@ home_page = html.Div(
                                                 "the user's desires. You only need to input your preferences "
                                                 "and the app will show you the phone "
                                                 "which matches the preferences the best. "
-                                                "In case you do not like the suggested phone,"
+                                                "In case you do not like the suggested phone, "
                                                 "the app also shows you some alternatives close to your preferences."
                                             ),
                                             className="main-p",
@@ -203,7 +197,10 @@ app_page = html.Div(
                         # Top card with details(?)
                         dbc.Card(
                             children=[
-                                dbc.CardHeader("Your preferences"),
+                                dbc.CardHeader(
+                                    "Your preferences",
+                                    className="card-header",
+                                ),
                                 dbc.CardBody(
                                     [
                                         html.P(
@@ -223,6 +220,7 @@ app_page = html.Div(
                                                         dbc.Label(
                                                             "Choose desired Memory capacity (GB)",
                                                             html_for="memory-choice",
+                                                            className="form-label",
                                                         ),
                                                         dcc.Slider(
                                                             id="memory-choice",
@@ -240,13 +238,14 @@ app_page = html.Div(
                                                             className="dash-slider",
                                                         ),
                                                     ],
-                                                    className="mr-3 ml-3 mb-4 mt-4",
+                                                    className="mr-3 ml-3 mb-2 mt-2",
                                                 ),
                                                 dbc.Row(
                                                     children=[
                                                         dbc.Label(
                                                             "Choose desired RAM capacity (GB)",
                                                             html_for="ram-choice",
+                                                            className="form-label",
                                                         ),
                                                         dcc.Slider(
                                                             id="ram-choice",
@@ -266,13 +265,14 @@ app_page = html.Div(
                                                             className="dash-slider",
                                                         ),
                                                     ],
-                                                    className="mr-3 ml-3 mb-4 mt-4",
+                                                    className="mr-3 ml-3 mb-2 mt-2",
                                                 ),
                                                 dbc.Row(
                                                     children=[
                                                         dbc.Label(
-                                                            "Choose desired battery capacity (1000mAh)",
+                                                            "Choose desired battery capacity (mAh)",
                                                             html_for="cam-choice",
+                                                            className="form-label",
                                                         ),
                                                         dcc.Slider(
                                                             id="cam-choice",
@@ -294,13 +294,14 @@ app_page = html.Div(
                                                             className="dash-slider",
                                                         ),
                                                     ],
-                                                    className="mr-3 ml-3 mb-2 mt-3",
+                                                    className="mr-3 ml-3 mb-2 mt-2",
                                                 ),
                                                 dbc.Row(
                                                     children=[
                                                         dbc.Label(
                                                             "Choose desired budget (Euros)",
                                                             html_for="cost-choice",
+                                                            className="form-label",
                                                         ),
                                                         dcc.Slider(
                                                             id="cost-choice",
@@ -325,7 +326,7 @@ app_page = html.Div(
                                                             className="dash-slider",
                                                         ),
                                                     ],
-                                                    className="mr-3 ml-3 mb-4 mt-4",
+                                                    className="mr-3 ml-3 mb-2 mt-2",
                                                     style={
                                                         "position": "relative",
                                                         "zIndex": "1000",
@@ -360,7 +361,11 @@ app_page = html.Div(
                                                     id="figure-result",
                                                     style={
                                                         "alignItems": "center",
-                                                        "padding": "1em",
+                                                        "padding": "1rem",
+                                                        "display": "flex",
+                                                        "flexDirection": "column",
+                                                        "justifyContent": "center",
+                                                        "height": "100%",
                                                     },
                                                 ),
                                                 html.Div(
@@ -369,21 +374,40 @@ app_page = html.Div(
                                                         "textAlign": "center",
                                                         "fontWeight": "bold",
                                                         "fontSize": "16px",
-                                                        "marginTop": "10px",
+                                                        "padding": "5px 0",
+                                                        "marginTop": "5px",
                                                     },
                                                 ),
                                             ],
-                                            width=4,
+                                            width=5,
+                                            style={
+                                                "display": "flex",
+                                                "flexDirection": "column",
+                                                "height": "100%",
+                                            },
                                         ),
                                         dbc.Col(
                                             children=[
                                                 dbc.CardBody(
                                                     id="results",
                                                     children=[],
+                                                    style={
+                                                        "height": "100%",
+                                                        "display": "flex",
+                                                        "flexDirection": "column",
+                                                        "justifyContent": "flex-start",
+                                                    },
                                                 ),
-                                            ]
+                                            ],
+                                            style={
+                                                "display": "flex",
+                                                "flexDirection": "column",
+                                            },
                                         ),
                                     ],
+                                    style={
+                                        "alignItems": "stretch",
+                                    },
                                 ),
                             ],
                             className="mb-4",
@@ -571,13 +595,11 @@ def results(*choices):
     best_phone_data = card_data.loc[distance_order.values[0]]
     id = best_phone_data["Id"]
     phone_name = best_phone_data["Brand"] + " " + best_phone_data["Model"]
-    print(f"DEBUG: Best phone ID = {id}")  # Debug output
-    import time
 
     idresult = html.Div(
         html.Img(
             src=app.get_asset_url(f"images/{id}.jpg"),
-            style={"width": "90%", "height": "300px", "objectFit": "contain"},
+            style={"width": "90%", "objectFit": "contain"},
         )
     )
 
@@ -610,10 +632,26 @@ def table_from_data(data, choices):
         # RED = phone falls short of preference (lower Memory/RAM/Battery, or higher Price)
         color_map[col] = "green" if diff[i] >= 0 else "red"
 
+    # Fields to hide from the table display
+    hidden_fields = [
+        "Id",
+        "Brand",
+        "Model",
+        "Release Date",
+        "Release_Date",
+        "brand",
+        "model",
+        "release_date",
+    ]
+
     # Create table rows for all displayed specifications
     table_rows = []
-    # Skip the first column (usually Model name) and show the rest
+    # Skip the first column (usually Model name) and show the rest, excluding hidden fields
     for col in data.index[1:]:
+        # Skip hidden fields
+        if col in hidden_fields:
+            continue
+
         if col in comparable_criteria:
             # Show color indicator for comparable criteria
             color_indicator = html.Span(" ▉", style={"color": color_map[col]})
@@ -631,7 +669,7 @@ def table_from_data(data, choices):
             )
         )
 
-    return dbc.Table([html.Tbody(table_rows)])
+    return dbc.Table([html.Tbody(table_rows)], style={"fontSize": "1rem"})
 
 
 def table_from_data_horizontal(data):
