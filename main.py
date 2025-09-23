@@ -219,7 +219,16 @@ app_page = html.Div(
                                                 dbc.Row(
                                                     children=[
                                                         dbc.Label(
-                                                            "Choose desired Memory capacity (GB)",
+                                                            [
+                                                                html.Span(
+                                                                    "💾 ",
+                                                                    style={
+                                                                        "fontSize": "1.2em",
+                                                                        "marginRight": "8px",
+                                                                    },
+                                                                ),
+                                                                "Choose desired Memory capacity (GB)",
+                                                            ],
                                                             html_for="memory-choice",
                                                             className="form-label",
                                                         ),
@@ -244,7 +253,16 @@ app_page = html.Div(
                                                 dbc.Row(
                                                     children=[
                                                         dbc.Label(
-                                                            "Choose desired RAM capacity (GB)",
+                                                            [
+                                                                html.Span(
+                                                                    "🖥️ ",
+                                                                    style={
+                                                                        "fontSize": "1.2em",
+                                                                        "marginRight": "8px",
+                                                                    },
+                                                                ),
+                                                                "Choose desired RAM capacity (GB)",
+                                                            ],
                                                             html_for="ram-choice",
                                                             className="form-label",
                                                         ),
@@ -271,7 +289,16 @@ app_page = html.Div(
                                                 dbc.Row(
                                                     children=[
                                                         dbc.Label(
-                                                            "Choose desired battery capacity (mAh)",
+                                                            [
+                                                                html.Span(
+                                                                    "🔋 ",
+                                                                    style={
+                                                                        "fontSize": "1.2em",
+                                                                        "marginRight": "8px",
+                                                                    },
+                                                                ),
+                                                                "Choose desired battery capacity (mAh)",
+                                                            ],
                                                             html_for="cam-choice",
                                                             className="form-label",
                                                         ),
@@ -300,7 +327,16 @@ app_page = html.Div(
                                                 dbc.Row(
                                                     children=[
                                                         dbc.Label(
-                                                            "Choose desired budget (Euros)",
+                                                            [
+                                                                html.Span(
+                                                                    "💰 ",
+                                                                    style={
+                                                                        "fontSize": "1.2em",
+                                                                        "marginRight": "8px",
+                                                                    },
+                                                                ),
+                                                                "Choose desired budget (Euros)",
+                                                            ],
                                                             html_for="cost-choice",
                                                             className="form-label",
                                                         ),
