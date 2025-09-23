@@ -800,7 +800,13 @@ if __name__ == "__main__":
     """
     Run the Dash application server.
 
-    The application will be available at http://127.0.0.1:8050/
-    Debug mode is enabled for development purposes.
+    For production deployment, use Gunicorn instead.
+    For development: http://127.0.0.1:8050/
     """
-    app.run_server(debug=True)
+    import os
+
+    # Get port from environment variable (for deployment) or use default
+    port = int(os.environ.get("PORT", 8050))
+    debug = os.environ.get("DEBUG", "False").lower() == "true"
+
+    app.run_server(host="0.0.0.0", port=port, debug=debug)  # Allow external connections

@@ -1,0 +1,33 @@
+apiVersion: build.openshift.io/v1
+kind: BuildConfig
+metadata:
+  name: phone-selector-build
+  labels:
+    app: phone-selector
+spec:
+  output:
+    to:
+      kind: ImageStreamTag
+      name: phone-selector-app:latest
+  source:
+    type: Git
+    git:
+      uri: https://github.com/giomara-larraga/researchers-night.git
+      ref: master
+    contextDir: .
+  strategy:
+    type: Docker
+    dockerStrategy:
+      dockerfilePath: Dockerfile
+  triggers:
+    - type: Generic
+      generic:
+        secretReference:
+          name: phone-selector-build-secret
+    - type: GitHub
+      github:
+        secretReference:
+          name: phone-selector-build-secret
+    - type: ConfigChange
+    - type: ImageChange
+      imageChange: {}

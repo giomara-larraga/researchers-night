@@ -1,0 +1,9 @@
+numpy==1.26.0
+pandas==2.2.0
+plotly==5.22.0
+dash==2.17.0
+xlrd==2.0.0
+Flask-Caching==1.8.0
+scikit-learn==1.4.0
+dash-bootstrap-components==0.10.0
+gunicorn==21.2.0

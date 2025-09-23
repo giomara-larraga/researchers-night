@@ -1,0 +1,9 @@
+apiVersion: image.openshift.io/v1
+kind: ImageStream
+metadata:
+  name: phone-selector-app
+  labels:
+    app: phone-selector
+spec:
+  lookupPolicy:
+    local: false
