@@ -1,7 +1,8 @@
 from dash import Dash, dcc, html
-#from dash.exceptions import PreventUpdate
-#from dash import dcc
-#from dash import html
+
+# from dash.exceptions import PreventUpdate
+# from dash import dcc
+# from dash import html
 
 from dash.dependencies import Input, Output, State
 import dash_bootstrap_components as dbc
@@ -36,7 +37,7 @@ fitness_columns = {
 fitness_data = data[fitness_columns] * maxi[fitness_columns].values
 
 
-#external_stylesheets = ["https://codepen.io/chriddyp/pen/bWLwgP.css"]
+# external_stylesheets = ["https://codepen.io/chriddyp/pen/bWLwgP.css"]
 
 app = Dash(
     __name__,
@@ -266,10 +267,10 @@ app.layout = html.Div(
                                                 placement="right",
                                                 style={
                                                     "maxWidth": 700,
-                                                    "background-color": "white",
+                                                    "backgroundColor": "white",
                                                     "color": "white",
-                                                    "border-style": "solid",
-                                                    "border-color": "black",
+                                                    "borderStyle": "solid",
+                                                    "borderColor": "black",
                                                 },
                                             )
                                             for i in range(2, 6)
@@ -310,7 +311,12 @@ def results(*choices):
     if choices[0] == "Android":
         choice_data = data[[True if "Android" in st else False for st in data["OS"]]]
     relevant_data = choice_data[
-        ["Memory", "RAM", "Camera (MP)", "Price (Euros)",]
+        [
+            "Memory",
+            "RAM",
+            "Camera (MP)",
+            "Price (Euros)",
+        ]
     ].reset_index(drop=True)
     card_data = choice_data[details_on_card].reset_index(drop=True)
     maxi = np.asarray([-1, -1, -1, 1])
@@ -357,8 +363,21 @@ def table_from_data(data, choices):
                     html.Tr(
                         [
                             html.Th(col),
-                            html.Td([str(data[col]),],),
-                            html.Td([html.Span(" ▉", style={"color": c,},)],),
+                            html.Td(
+                                [
+                                    str(data[col]),
+                                ],
+                            ),
+                            html.Td(
+                                [
+                                    html.Span(
+                                        " ▉",
+                                        style={
+                                            "color": c,
+                                        },
+                                    )
+                                ],
+                            ),
                         ]
                     )
                     for (col, c) in zip(data.index, colors)

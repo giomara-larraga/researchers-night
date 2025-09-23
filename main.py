@@ -172,7 +172,10 @@ app_page = html.Div(
                         # Use row and col to control vertical alignment of logo / brand
                         dbc.Row(
                             [
-                                dbc.Col(html.Img(src=PLOTLY_LOGO, height="30px")),
+                                dbc.Col(
+                                    html.Img(src=PLOTLY_LOGO, height="30px"),
+                                    width="auto",
+                                ),
                                 dbc.Col(
                                     dbc.NavbarBrand(
                                         "Multiobjective Optimization Group - Phone selection tool",
@@ -187,7 +190,8 @@ app_page = html.Div(
                         style={"textDecoration": "none"},
                     ),
                     dbc.NavbarToggler(id="navbar-toggler", n_clicks=0),
-                ]
+                ],
+                fluid=True,
             ),
             color="#002957",
             dark=True,
@@ -355,10 +359,19 @@ app_page = html.Div(
                                                 html.Div(
                                                     id="figure-result",
                                                     style={
-                                                        "align-items": "center",
+                                                        "alignItems": "center",
                                                         "padding": "1em",
                                                     },
-                                                )
+                                                ),
+                                                html.Div(
+                                                    id="phone-name",
+                                                    style={
+                                                        "textAlign": "center",
+                                                        "fontWeight": "bold",
+                                                        "fontSize": "16px",
+                                                        "marginTop": "10px",
+                                                    },
+                                                ),
                                             ],
                                             width=4,
                                         ),
@@ -436,6 +449,7 @@ app_page = html.Div(
     [
         Output("results", "children"),  # Best phone details table
         *[Output(f"figure-result", "children")],  # Best phone image
+        Output("phone-name", "children"),  # Best phone name
         *[
             Output(f"figure-option-{i}", "children") for i in range(2, 6)
         ],  # Alternative phone images
@@ -554,18 +568,20 @@ def results(*choices):
         figures = figures + [None for i in range(len(figures) + 2, 6)]
 
     # Generate image component for the best phone
-    id = card_data.loc[distance_order.values[0]]["Id"]
+    best_phone_data = card_data.loc[distance_order.values[0]]
+    id = best_phone_data["Id"]
+    phone_name = best_phone_data["Brand"] + " " + best_phone_data["Model"]
     print(f"DEBUG: Best phone ID = {id}")  # Debug output
     import time
 
     idresult = html.Div(
         html.Img(
             src=app.get_asset_url(f"images/{id}.jpg"),
-            style={"width": "70%"},
+            style={"width": "90%", "height": "300px", "objectFit": "contain"},
         )
     )
 
-    return (best, idresult, *figures, *others, *tooltips)
+    return (best, idresult, phone_name, *figures, *others, *tooltips)
 
 
 def table_from_data(data, choices):
@@ -649,7 +665,7 @@ def get_figures_options(id):
     return html.Div(
         html.Img(
             src=app.get_asset_url(f"images/{id}.jpg?v={cache_bust}"),
-            style={"width": "70%"},
+            style={"width": "70%", "height": "200px", "objectFit": "contain"},
         )
     )
 

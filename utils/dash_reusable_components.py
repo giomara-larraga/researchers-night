@@ -29,7 +29,7 @@ def NamedSlider(name, **kwargs):
         style={"padding": "20px 10px 25px 4px"},
         children=[
             html.P(f"{name}:"),
-            html.Div(style={"margin-left": "6px"}, children=dcc.Slider(**kwargs)),
+            html.Div(style={"marginLeft": "6px"}, children=dcc.Slider(**kwargs)),
         ],
     )
 
@@ -38,7 +38,7 @@ def NamedDropdown(name, **kwargs):
     return html.Div(
         style={"margin": "10px 0px"},
         children=[
-            html.P(children=f"{name}:", style={"margin-left": "3px"}),
+            html.P(children=f"{name}:", style={"marginLeft": "3px"}),
             dcc.Dropdown(**kwargs),
         ],
     )
@@ -66,10 +66,10 @@ def DemoDescription(filename, strip=False):
             "padding": "15px 30px 27px",
             "margin": "45px auto 45px",
             "width": "80%",
-            "max-width": "1024px",
+            "maxWidth": "1024px",
             "borderRadius": 5,
             "border": "thin lightgrey solid",
-            "font-family": "Roboto, sans-serif",
+            "fontFamily": "Roboto, sans-serif",
         },
         children=dcc.Markdown(dedent(text)),
     )
