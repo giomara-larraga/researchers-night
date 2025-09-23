@@ -38,5 +38,5 @@ EXPOSE 8050
 HEALTHCHECK --interval=30s --timeout=30s --start-period=5s --retries=3 \
     CMD curl -f http://localhost:8050/ || exit 1
 
-# Run the application with Gunicorn
-CMD ["gunicorn", "--bind", "0.0.0.0:8050", "--workers", "1", "--timeout", "120", "main:app.server"]
+# Run the application - Use Python directly for Dash apps
+CMD ["python", "main.py"]

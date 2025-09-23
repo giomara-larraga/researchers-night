@@ -276,6 +276,105 @@ After successful deployment:
 3. **View Logs:** **"Workloads"** → **"Pods"** → Select pod → **"Logs"** tab
 4. **Access Terminal:** **"Workloads"** → **"Pods"** → Select pod → **"Terminal"** tab
 
+### 🚨 **Common UI Deployment Issues & Fixes:**
+
+#### **Issue: "Back-off pulling image" Error**
+
+**Problem:** Deployment can't find the built image
+```
+Back-off pulling image "image-registry.openshift-image-registry.svc:5000/phone-selector/researchers-night-git:latest"
+```
+
+**Solutions:**
+
+1. **Check Image Stream Name:**
+   - Go to **"Builds"** → **"Image Streams"**
+   - Note the exact ImageStream name (e.g., `researchers-night-git`)
+
+2. **Update Deployment Image Reference:**
+   - **"Workloads"** → **"Deployments"** → Click deployment
+   - **"Actions"** → **"Edit Deployment"**
+   - Update image to: `researchers-night-git:latest` (use your actual ImageStream name)
+   - **Alternative:** Use full registry path: `image-registry.openshift-image-registry.svc:5000/phone-selector/researchers-night-git:latest`
+
+3. **Recreate Deployment from ImageStream:**
+   - Delete current deployment: **"Workloads"** → **"Deployments"** → **"Actions"** → **"Delete"**
+   - Go to **"Builds"** → **"Image Streams"** → Click your ImageStream
+   - Click **"Deploy Image"** or **"Create Deployment"**
+
+4. **Verify Build Completed:**
+   - **"Builds"** → **"Builds"** → Check latest build status
+   - Ensure it shows **"Complete"** status
+   - Check logs if failed
+
+**✅ Specific Fix for Your Case:**
+
+Your build created image: `researchers-night-git:latest`
+
+**Quick Fix via UI:**
+1. Go to **"Workloads"** → **"Deployments"** → Click your deployment
+2. Click **"YAML"** tab
+3. Find the `image:` line under `containers:`
+4. Change it to: `researchers-night-git:latest`
+5. Click **"Save"**
+
+**Alternative - Deploy from ImageStream:**
+1. Go to **"Builds"** → **"Image Streams"**
+2. Click on **"researchers-night-git"**
+3. Click **"Deploy Image"** button
+4. Follow the wizard to create a new deployment
+
+#### **Issue: Build Fails**
+
+**Solutions:**
+1. **Check Build Logs:** **"Builds"** → **"Builds"** → Click failed build → **"Logs"**
+2. **Verify Dockerfile:** Ensure Dockerfile is in repository root
+3. **Check Resource Limits:** Increase build resources if needed
+4. **Verify Git Repository:** Ensure repository is accessible and branch exists
+
+#### **Issue: Application Not Starting**
+
+**Solutions:**
+1. **Check Pod Logs:** **"Workloads"** → **"Pods"** → Click pod → **"Logs"**
+2. **Verify Environment Variables:** Check PORT=8050 is set
+3. **Check Health Probes:** Adjust initialDelaySeconds if needed
+4. **Resource Limits:** Ensure sufficient memory/CPU allocated
+
+#### **Issue: "Failed to parse 'app.server'" Error**
+
+**Problem:** Gunicorn can't find the Flask server object
+```
+Failed to parse 'app.server' as an attribute name or function call.
+[ERROR] App failed to load.
+```
+
+**Root Cause:** The Dockerfile is using `main:app.server` but Dash apps need special handling.
+
+**Solution - Fix the Dockerfile:**
+
+The issue is in your Dockerfile's CMD line. You need to either:
+
+**Option 1: Update main.py (Recommended)**
+Add this line after creating your Dash app:
+```python
+app = Dash(__name__, external_stylesheets=[...])
+server = app.server  # Add this line for Gunicorn compatibility
+```
+
+**Option 2: Change Dockerfile CMD**
+Instead of: `CMD ["gunicorn", "--bind", "0.0.0.0:8050", "--workers", "1", "--timeout", "120", "main:app.server"]`
+Use: `CMD ["python", "main.py"]`
+
+**Option 3: Use Correct Gunicorn Reference**
+Change Dockerfile CMD to: `CMD ["gunicorn", "--bind", "0.0.0.0:8050", "--workers", "1", "--timeout", "120", "main:app"]`
+
+**Quick Fix via OpenShift UI:**
+1. Go to **"Builds"** → **"Build Configs"** → Click your build config
+2. Click **"YAML"** tab
+3. Find the Dockerfile strategy section
+4. Add inline Dockerfile with corrected CMD
+5. Start new build
+
 ## Deployment Files Overview
 
 ### Core OpenShift Resources

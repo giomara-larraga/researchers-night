@@ -79,6 +79,9 @@ app = Dash(
     suppress_callback_exceptions=True,  # Allow callbacks for components not yet rendered
 )
 
+# Expose Flask server for Gunicorn compatibility (if needed)
+server = app.server
+
 # Main application layout with URL routing
 app.layout = html.Div(
     [dcc.Location(id="url", refresh=False), html.Div(id="page-content")]
