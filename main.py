@@ -54,9 +54,9 @@ details_on_card = details.columns[details_on_card == 1]
 # -1: maximize (higher values are better)
 #  1: minimize (lower values are better)
 fitness_columns = {
-    "Memory": -1,  # Higher memory capacity is better
-    "RAM": -1,  # Higher RAM is better
-    "Battery": -1,  # Higher battery capacity is better
+    "Memory (GB)": -1,  # Higher memory capacity is better
+    "RAM (GB)": -1,  # Higher RAM is better
+    "Battery (mAh)": -1,  # Higher battery capacity is better
     "Price (Euros)": 1,  # Lower price is better
 }
 
@@ -523,9 +523,9 @@ def results(*choices):
     # Proper normalization is essential for meaningful comparison
     relevant_data = choice_data[
         [
-            "Memory",
-            "RAM",
-            "Battery",
+            "Memory (GB)",
+            "RAM (GB)",
+            "Battery (mAh)",
             "Price (Euros)",
         ]
     ].reset_index(drop=True)
@@ -618,7 +618,7 @@ def table_from_data(data, choices):
         dbc.Table: Bootstrap table component with specifications and color indicators
     """
     # Criteria that can be compared to user preferences
-    comparable_criteria = ["Memory", "RAM", "Battery", "Price (Euros)"]
+    comparable_criteria = ["Memory (GB)", "RAM (GB)", "Battery (mAh)", "Price (Euros)"]
 
     # Calculate difference between phone specs and user preferences
     # For Memory, RAM, Battery: phone_value - user_preference (positive = phone exceeds preference)
@@ -727,7 +727,7 @@ def other_options(data):
     i = 2  # Start numbering from 2 (since 1 is the best phone)
 
     for index, row in data.iterrows():
-        contents.append(f"{i}. {row['Model']}")
+        contents.append(f"{i}. {row['Brand']} {row['Model']}")
         id = row["Id"]
         tables.append(
             table_from_data_horizontal(row[1:])

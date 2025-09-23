@@ -1,4 +1,4 @@
-id,RAM,ROM,battery,screen,brand,model,rear_cameras,release_date,average_cost
-Id,RAM,Memory,Battery,Screen,Brand,Model,Rear Cameras,Release Date,Price (Euros)
-0,-1,-1,-1,0,0,0,0,0,1
-0,1,1,1,1,1,1,1,1,1
+id,RAM,ROM,battery,camera,screen,brand,model,rear_cameras,release_date,average_cost
+Id,RAM (GB),Memory (GB),Battery (mAh),Camera (MP),Screen (Inches),Brand,Model,Rear Cameras,Release Date,Price (Euros)
+0,-1,-1,-1,0,0,0,0,0,0,1
+0,1,1,1,1,1,1,1,1,1,1
